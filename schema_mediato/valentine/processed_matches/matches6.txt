@@ -1,0 +1,4 @@
+('gren-ft.com.json', 'revenue_2020_EU')
+('silvestri-ft.com.json', 'revenue_2020')
+('DDD-ft.com.json', 'revenue_2020_euro')
+('silvestri-forbes.com.json', 'revenue_2022')

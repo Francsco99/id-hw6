@@ -1,0 +1,196 @@
+[
+    {
+        "id": "id",
+        "name": "company_name",
+        "address": "address",
+        "p_iva": "p_iva",
+        "hhid": "hhid",
+        "industry": "industry",
+        "sic_code": "sic_code",
+        "type": "type",
+        "foundation date": "found_date",
+        "dataset": "avengers-hitHorizons_dataset.json"
+    },
+    {
+        "Unnamed: 0": "id",
+        "name": "company_name",
+        "country": "country",
+        "sector": "sector",
+        "absolute_growth_rate_pct": "absolute_growth_rate_pct",
+        "compound_annual_growth_rate_cagr_pct": "compound_annual_growth_rate_cagr_pct",
+        "revenue_2020_euro": "revenue",
+        "revenue_2017_euro": "revenue_2017",
+        "number_of_employees_2020": "employees_number",
+        "number_of_employees_2017": "employees_number_2017",
+        "found_date": "found_date",
+        "dataset": "DDD-ft.com.json"
+    },
+    {
+        "Unnamed: 0": "id",
+        "name": "company_name",
+        "website": "website",
+        "locations": "location_city",
+        "size": "employees_number",
+        "industry": "industry",
+        "founded": "found_date",
+        "dataset": "DDD-teamblind.com.json"
+    },
+    {
+        "name": "company_name",
+        "headquarters": "country",
+        "number_of_employees": "employees_number",
+        "address": "address",
+        "industry": "industry",
+        "website": "website",
+        "market_cap": "market_cap",
+        "telephone": "telephone",
+        "revenue": "revenue",
+        "dataset": "DeBiGa-output_globaldata.json"
+    },
+    {
+        "name": "company_name",
+        "company_number": "company_number",
+        "registered_office_address": "address",
+        "company_status": "company_status",
+        "company_type": "type",
+        "company_creation_date": "found_date",
+        "nature_of_business": "industry",
+        "dataset": "DeBiGa-output_govuk_bigsize.json"
+    },
+    {
+        "RANK": "rank",
+        "BRAND NAME": "company_name",
+        "CATEGORY": "categories",
+        "MAIN MARKET": "main_market",
+        "2010 RANK": "rank_2010",
+        "dataset":"FR-campaignindia.json"
+    },
+    {
+        "Company": "company_name",
+        "Facebook": "facebook",
+        "Twitter": "twitter",
+        "Instagram": "instagram",
+        "Pinterest": "pinterest",
+        "dataset":"FR-company_social_urls.json"
+    },
+    {
+        "Company": "company_name",
+        "Facebook": "facebook",
+        "Twitter": "twitter",
+        "Instagram": "instagram",
+        "Pinterest": "pinterest",
+        "dataset": "FR-followers.json"
+    },
+    {
+        "name": "company_name",
+        "codice": "symbol",
+        "pricecap": "price_cap",
+        "price": "share_price",
+        "country": "country",
+        "dataset":"GioPonSpiz-marketCap2.json"
+    },
+    {
+        "name": "company_name",
+        "world_rank": "rank",
+        "marketValue": "market_value",
+        "marketCap": "market_cap",
+        "CEO": "ceo",
+        "country": "country",
+        "dataset": "GioPonSpiz-valueToday2.json"
+    },
+    {
+        "Name": "company_name",
+        "Industry": "industry",
+        "Sector": "sector",
+        "Headquarters": "location_city",
+        "Founded": "found_date",
+        "dataset":"GioPonSpiz-wiki.json"
+    },
+    {
+        "name": "company_name",
+        "country": "country",
+        "sector": "sector",
+        "revenue_2020_EU": "revenue",
+        "revenue_2017_EU": "revenue_2017",
+        "employees_number_2020": "employees_number",
+        "employees_number_2017": "employees_number_2017",
+        "found_date": "found_date",
+        "dataset":"gren-ft.com.json"
+    },
+    {
+        "company": "company_name",
+        "price": "share_price",
+        "datejoined": "join_date",
+        "country": "country",
+        "city": "location_city",
+        "industry": "industry",
+        "selectinvestors": "investors",
+        "dataset": "iGMM-cbinsights.json"
+    },
+    {
+        "Unnamed: 0":"id",
+        "Name": "company_name",
+        "Symbol": "symbol",
+        "MarketCap": "market_cap",
+        "Price": "price",
+        "Country": "country",
+        "dataset":"MalPatSaj-companiesmarketcap.com.json"
+    },
+    {
+        "Name": "company_name",
+        "Industry": "industry",
+        "Headquarter": "country",
+        "Ownership": "type",
+        "Foundation Year": "found_date",
+        "dataset":"MarScoToc-AmbitionBox.json"
+    },
+    {
+        "Name": "company_name",
+        "Industry": "industry",
+        "headQuarters": "location_city",
+        "Founded": "found_date",
+        "Area Served": "area_served",
+        "dataset":"MarScoToc-wikipedia.json"
+    },
+    {
+        "country": "country",
+        "market_value_apr_2022": "market_value",
+        "name": "company_name",
+        "revenue_2022": "revenue",
+        "dataset": "silvestri-forbes.com.json"
+    },
+    {
+        "employees_2017": "employees_number_2017",
+        "employees_2020": "employees_number",
+        "founding_year": "found_date",
+        "name": "company_name",
+        "revenue_2017": "revenue_2017",
+        "revenue_2020": "revenue",
+        "sector": "sector",
+        "country": "country",
+        "dataset":"silvestri-ft.com.json"
+    },
+    {
+        "link": "link",
+        "name": "company_name",
+        "headquarters": "location_city",
+        "employees": "employees_number",
+        "ceo": "ceo",
+        "market_cap": "market_cap",
+        "dataset":"slytherin-disfold.com.json"
+    },
+    {
+        "Unnamed: 0": "id",
+        "INDEX": "id",
+        "URL": "url",
+        "Name": "company_name",
+        "Trade Name": "trade_name",
+        "Address Name": "address",
+        "Postalcode": "postal_code",
+        "City": "location_city",
+        "State": "location_state",
+        "Country": "country",
+        "Location type": "location_type",
+        "dataset": "wissel-aziende-info-clipper.com.json"
+    }
+]

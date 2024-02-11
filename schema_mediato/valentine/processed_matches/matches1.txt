@@ -1,0 +1,2 @@
+('iGMM-cbinsights.json', 'city')
+('wissel-aziende-info-clipper.com.json', 'City')

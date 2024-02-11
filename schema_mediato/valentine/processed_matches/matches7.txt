@@ -1,0 +1,5 @@
+('DeBiGa-output_globaldata.json', 'headquarters')
+('MarScoToc-AmbitionBox.json', 'Headquarter')
+('slytherin-disfold.com.json', 'headquarters')
+('MarScoToc-wikipedia.json', 'headQuarters')
+('GioPonSpiz-wiki.json', 'Headquarters')

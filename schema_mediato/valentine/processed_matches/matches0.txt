@@ -1,0 +1,3 @@
+('DeBiGa-output_globaldata.json', 'address')
+('avengers-hitHorizons_dataset.json', 'address')
+('wissel-aziende-info-clipper.com.json', 'Address Name')

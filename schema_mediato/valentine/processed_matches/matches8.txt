@@ -1,0 +1,2 @@
+('DeBiGa-output_globaldata.json', 'website')
+('DDD-teamblind.com.json', 'website')

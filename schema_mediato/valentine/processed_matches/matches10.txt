@@ -1,0 +1,2 @@
+('FR-campaignindia.json', 'RANK')
+('GioPonSpiz-valueToday2.json', 'world_rank')

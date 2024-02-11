@@ -1,0 +1,4 @@
+('MalPatSaj-companiesmarketcap.com.json', 'MarketCap')
+('GioPonSpiz-valueToday2.json', 'marketCap')
+('slytherin-disfold.com.json', 'market_cap')
+('DeBiGa-output_globaldata.json', 'market_cap')

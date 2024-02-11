@@ -1,0 +1,3 @@
+('iGMM-cbinsights.json', 'price')
+('MalPatSaj-companiesmarketcap.com.json', 'Price')
+('GioPonSpiz-marketCap2.json', 'price')

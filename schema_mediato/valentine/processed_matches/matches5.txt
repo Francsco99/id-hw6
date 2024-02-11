@@ -1,0 +1,4 @@
+('silvestri-ft.com.json', 'sector')
+('gren-ft.com.json', 'sector')
+('DDD-ft.com.json', 'sector')
+('GioPonSpiz-wiki.json', 'Sector')

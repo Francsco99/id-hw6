@@ -1,0 +1,4 @@
+Pacchetti pip da installare
+-pandas
+-xlrd 
+-valentine

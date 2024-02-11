@@ -1,0 +1,6002 @@
+[
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$741.48 B",
+        "name": "berkshire hathaway",
+        "revenue_2022": "$276.09 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$214.43 B",
+        "name": "icbc",
+        "revenue_2022": "$208.13 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$2,292.08 B",
+        "name": "saudi arabian oil company (saudi aramco)",
+        "revenue_2022": "$400.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$374.45 B",
+        "name": "jpmorgan chase",
+        "revenue_2022": "$124.54 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$181.32 B",
+        "name": "china construction bank",
+        "revenue_2022": "$202.07 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$1,468.4 B",
+        "name": "amazon",
+        "revenue_2022": "$469.82 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$2,640.32 B",
+        "name": "apple",
+        "revenue_2022": "$378.7 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$133.38 B",
+        "name": "agricultural bank of china",
+        "revenue_2022": "$181.42 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$303.1 B",
+        "name": "bank of america",
+        "revenue_2022": "$96.83 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$237.73 B",
+        "name": "toyota motor",
+        "revenue_2022": "$281.75 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$1,581.72 B",
+        "name": "alphabet",
+        "revenue_2022": "$257.49 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$2,054.37 B",
+        "name": "microsoft",
+        "revenue_2022": "$184.9 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$117.83 B",
+        "name": "bank of china",
+        "revenue_2022": "$152.43 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$367.26 B",
+        "name": "samsung group",
+        "revenue_2022": "$244.16 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$359.73 B",
+        "name": "exxonmobil",
+        "revenue_2022": "$280.51 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$211.1 B",
+        "name": "shell",
+        "revenue_2022": "$261.76 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$121.69 B",
+        "name": "ping an insurance group",
+        "revenue_2022": "$181.37 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$176.77 B",
+        "name": "wells fargo",
+        "revenue_2022": "$84.12 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$218.02 B",
+        "name": "verizon communications",
+        "revenue_2022": "$134.35 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$141.79 B",
+        "name": "at&t",
+        "revenue_2022": "$163.03 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$142.3 B",
+        "name": "petrochina",
+        "revenue_2022": "$380.31 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$490.15 B",
+        "name": "unitedhealth group",
+        "revenue_2022": "$297.55 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$431.64 B",
+        "name": "walmart",
+        "revenue_2022": "$572.75 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$167.32 B",
+        "name": "china merchants bank",
+        "revenue_2022": "$71.07 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$82.4 B",
+        "name": "volkswagen group",
+        "revenue_2022": "$295.73 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$316.23 B",
+        "name": "chevron",
+        "revenue_2022": "$156.29 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$101.48 B",
+        "name": "citigroup",
+        "revenue_2022": "$79.94 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$414.28 B",
+        "name": "tencent holdings",
+        "revenue_2022": "$86.86 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$127.32 B",
+        "name": "total",
+        "revenue_2022": "$185.12 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$125.53 B",
+        "name": "postal savings bank of china (psbc)",
+        "revenue_2022": "$77.61 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$147.05 B",
+        "name": "china mobile",
+        "revenue_2022": "$131.49 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$205.72 B",
+        "name": "comcast",
+        "revenue_2022": "$116.39 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$237.78 B",
+        "name": "alibaba group",
+        "revenue_2022": "$129.76 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$499.86 B",
+        "name": "meta platforms",
+        "revenue_2022": "$117.93 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$96.42 B",
+        "name": "allianz",
+        "revenue_2022": "$138.62 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$150.95 B",
+        "name": "morgan stanley",
+        "revenue_2022": "$60.22 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$109.32 B",
+        "name": "goldman sachs group",
+        "revenue_2022": "$62.81 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$135.3 B",
+        "name": "hsbc holdings",
+        "revenue_2022": "$59.33 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$68.76 B",
+        "name": "bnp paribas",
+        "revenue_2022": "$127.42 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$477.38 B",
+        "name": "johnson & johnson",
+        "revenue_2022": "$94.88 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$74.62 B",
+        "name": "mercedes-benz group",
+        "revenue_2022": "$178.94 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$133.53 B",
+        "name": "cvs health",
+        "revenue_2022": "$291.98 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$271.83 B",
+        "name": "pfizer",
+        "revenue_2022": "$81.49 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$71.69 B",
+        "name": "softbank",
+        "revenue_2022": "$96.86 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$80.81 B",
+        "name": "sinopec",
+        "revenue_2022": "$384.82 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$147.92 B",
+        "name": "rbc",
+        "revenue_2022": "$45.24 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$360.01 B",
+        "name": "nestl\u00e9",
+        "revenue_2022": "$95.25 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$65.75 B",
+        "name": "axa group",
+        "revenue_2022": "$145.19 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$63.56 B",
+        "name": "gazprom",
+        "revenue_2022": "$117.3 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$98.38 B",
+        "name": "bp",
+        "revenue_2022": "$158.01 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$190.29 B",
+        "name": "intel",
+        "revenue_2022": "$79.02 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$132.99 B",
+        "name": "td bank group",
+        "revenue_2022": "$38.51 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$103.98 B",
+        "name": "nippon telegraph & tel",
+        "revenue_2022": "$110.39 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$228.63 B",
+        "name": "reliance industries",
+        "revenue_2022": "$86.85 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$68.59 B",
+        "name": "industrial bank",
+        "revenue_2022": "$60.53 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$108.84 B",
+        "name": "sony",
+        "revenue_2022": "$89.9 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$58.21 B",
+        "name": "santander",
+        "revenue_2022": "$78.22 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$75.75 B",
+        "name": "mitsubishi ufj financial",
+        "revenue_2022": "$48.28 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$494.6 B",
+        "name": "taiwan semiconductor",
+        "revenue_2022": "$61.47 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$60.8 B",
+        "name": "ford motor",
+        "revenue_2022": "$136.34 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$346.8 B",
+        "name": "lvmh mo\u00ebt hennessy louis vuitton",
+        "revenue_2022": "$75.9 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$52.82 B",
+        "name": "bank of communications",
+        "revenue_2022": "$76 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$386.53 B",
+        "name": "procter & gamble",
+        "revenue_2022": "$79.62 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$55.98 B",
+        "name": "bmw group",
+        "revenue_2022": "$131.48 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$83.98 B",
+        "name": "petrobras",
+        "revenue_2022": "$83.89 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$91.72 B",
+        "name": "deutsche telekom",
+        "revenue_2022": "$128.59 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$273.76 B",
+        "name": "abbvie",
+        "revenue_2022": "$56.2 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$200.73 B",
+        "name": "novartis",
+        "revenue_2022": "$51.63 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$57.89 B",
+        "name": "general motors",
+        "revenue_2022": "$127 B"
+    },
+    {
+        "country": "norway",
+        "market_value_apr_2022": "$117.87 B",
+        "name": "equinor",
+        "revenue_2022": "$88.37 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$43.02 B",
+        "name": "china life insurance",
+        "revenue_2022": "$130.5 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$308.14 B",
+        "name": "roche holding",
+        "revenue_2022": "$68.69 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$120.19 B",
+        "name": "aia group",
+        "revenue_2022": "$45.16 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$57.39 B",
+        "name": "metlife",
+        "revenue_2022": "$71.08 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$178.07 B",
+        "name": "bhp group",
+        "revenue_2022": "$65.55 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$310.13 B",
+        "name": "the home depot",
+        "revenue_2022": "$151.16 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$136.72 B",
+        "name": "american express",
+        "revenue_2022": "$46.29 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$102.23 B",
+        "name": "siemens",
+        "revenue_2022": "$76.46 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$44.26 B",
+        "name": "stellantis",
+        "revenue_2022": "$176.61 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$69.22 B",
+        "name": "zurich insurance group",
+        "revenue_2022": "$69.58 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$48.79 B",
+        "name": "rosneft",
+        "revenue_2022": "$111.4 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$117.78 B",
+        "name": "rio tinto",
+        "revenue_2022": "$63.46 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$80.94 B",
+        "name": "brookfield asset management",
+        "revenue_2022": "$78.82 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$81.2 B",
+        "name": "cigna",
+        "revenue_2022": "$174.27 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$43.6 B",
+        "name": "prudential financial",
+        "revenue_2022": "$70.93 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$238.13 B",
+        "name": "pepsico",
+        "revenue_2022": "$79.47 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$213.83 B",
+        "name": "merck & co.",
+        "revenue_2022": "$50.37 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$121.25 B",
+        "name": "elevance health",
+        "revenue_2022": "$144.35 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$80.58 B",
+        "name": "bank of nova scotia",
+        "revenue_2022": "$30.35 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$48.73 B",
+        "name": "american international group",
+        "revenue_2022": "$52.06 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$79.9 B",
+        "name": "glencore international",
+        "revenue_2022": "$203.41 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$213.36 B",
+        "name": "cisco systems",
+        "revenue_2022": "$51.55 B"
+    },
+    {
+        "country": "belgium",
+        "market_value_apr_2022": "$118.52 B",
+        "name": "anheuser-busch inbev",
+        "revenue_2022": "$54.33 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$215.33 B",
+        "name": "walt disney",
+        "revenue_2022": "$72.98 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$87.31 B",
+        "name": "chubb",
+        "revenue_2022": "$40.95 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$31.96 B",
+        "name": "citic",
+        "revenue_2022": "$91.21 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$41.34 B",
+        "name": "lloyds banking group",
+        "revenue_2022": "$58.48 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$124.33 B",
+        "name": "ibm",
+        "revenue_2022": "$67.25 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$136.86 B",
+        "name": "sanofi",
+        "revenue_2022": "$44.63 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$163.03 B",
+        "name": "united parcel service",
+        "revenue_2022": "$97.2 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$97.49 B",
+        "name": "british american tobacco",
+        "revenue_2022": "$35.32 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$56.17 B",
+        "name": "ubs",
+        "revenue_2022": "$35.22 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$44.99 B",
+        "name": "honda motor",
+        "revenue_2022": "$130.16 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$50.87 B",
+        "name": "mitsubishi",
+        "revenue_2022": "$146.94 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$36.91 B",
+        "name": "china state construction engineering",
+        "revenue_2022": "$205.79 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$58.39 B",
+        "name": "state bank of india",
+        "revenue_2022": "$54.42 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$130.34 B",
+        "name": "commonwealth bank",
+        "revenue_2022": "$21.85 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$36.6 B",
+        "name": "shanghai pudong development",
+        "revenue_2022": "$54.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$149.76 B",
+        "name": "raytheon technologies",
+        "revenue_2022": "$64.36 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$65.84 B",
+        "name": "enel",
+        "revenue_2022": "$99.41 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$52.28 B",
+        "name": "eni",
+        "revenue_2022": "$90.5 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$54.88 B",
+        "name": "capital one",
+        "revenue_2022": "$32.12 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$160.98 B",
+        "name": "bristol myers squibb",
+        "revenue_2022": "$46.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$282.86 B",
+        "name": "coca-cola",
+        "revenue_2022": "$38.73 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$203.34 B",
+        "name": "oracle",
+        "revenue_2022": "$41.83 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$33.98 B",
+        "name": "sberbank",
+        "revenue_2022": "$57.37 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$72.74 B",
+        "name": "bank of montreal",
+        "revenue_2022": "$26.53 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$82.03 B",
+        "name": "vale",
+        "revenue_2022": "$54.4 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$35.09 B",
+        "name": "edf",
+        "revenue_2022": "$99.83 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$219.71 B",
+        "name": "thermo fisher scientific",
+        "revenue_2022": "$39.21 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$31.42 B",
+        "name": "credit agricole",
+        "revenue_2022": "$73.61 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$88.6 B",
+        "name": "airbus",
+        "revenue_2022": "$61.64 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$253.39 B",
+        "name": "costco wholesale",
+        "revenue_2022": "$210.22 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$49.04 B",
+        "name": "hon hai precision",
+        "revenue_2022": "$214.6 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$116.16 B",
+        "name": "unilever",
+        "revenue_2022": "$62 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$97.92 B",
+        "name": "charter communications",
+        "revenue_2022": "$51.68 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$42.33 B",
+        "name": "sumitomo mitsui financial",
+        "revenue_2022": "$35.5 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$124.43 B",
+        "name": "conocophillips",
+        "revenue_2022": "$46.06 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$112.09 B",
+        "name": "glaxosmithkline",
+        "revenue_2022": "$46.92 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$41.42 B",
+        "name": "intesa sanpaolo",
+        "revenue_2022": "$47.84 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$39.76 B",
+        "name": "manulife",
+        "revenue_2022": "$47.17 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$75.48 B",
+        "name": "us bancorp",
+        "revenue_2022": "$23.12 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$51.78 B",
+        "name": "basf",
+        "revenue_2022": "$92.9 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$62.6 B",
+        "name": "cnooc",
+        "revenue_2022": "$37.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$210.98 B",
+        "name": "abbott laboratories",
+        "revenue_2022": "$44.51 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$70.26 B",
+        "name": "iberdrola",
+        "revenue_2022": "$46.23 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$62.81 B",
+        "name": "china shenhua energy",
+        "revenue_2022": "$52.02 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$52.89 B",
+        "name": "ita\u00fa unibanco holding",
+        "revenue_2022": "$35.96 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$115.91 B",
+        "name": "caterpillar",
+        "revenue_2022": "$50.98 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$40.83 B",
+        "name": "mitsui",
+        "revenue_2022": "$108.31 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$45.95 B",
+        "name": "itochu",
+        "revenue_2022": "$107.99 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$127.6 B",
+        "name": "charles schwab",
+        "revenue_2022": "$18.98 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$67.64 B",
+        "name": "truist financial",
+        "revenue_2022": "$23.19 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$90.92 B",
+        "name": "enbridge",
+        "revenue_2022": "$37.55 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$45.78 B",
+        "name": "hitachi",
+        "revenue_2022": "$91.9 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$74.12 B",
+        "name": "kddi",
+        "revenue_2022": "$49.17 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$37.61 B",
+        "name": "hyundai motor",
+        "revenue_2022": "$102.7 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$25.26 B",
+        "name": "china citic bank",
+        "revenue_2022": "$56.99 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$436.49 B",
+        "name": "visa",
+        "revenue_2022": "$25.48 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$111.76 B",
+        "name": "target",
+        "revenue_2022": "$106 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$35.28 B",
+        "name": "bbva-banco bilbao vizcaya",
+        "revenue_2022": "$41.98 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$1,038.73 B",
+        "name": "tesla",
+        "revenue_2022": "$53.82 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$123.81 B",
+        "name": "deere & company",
+        "revenue_2022": "$44.45 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$98.28 B",
+        "name": "hdfc bank",
+        "revenue_2022": "$22.51 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$31.55 B",
+        "name": "barclays",
+        "revenue_2022": "$30.17 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$35.48 B",
+        "name": "munich re",
+        "revenue_2022": "$84.88 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$26.56 B",
+        "name": "japan post holdings",
+        "revenue_2022": "$103.58 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$39.34 B",
+        "name": "walgreens",
+        "revenue_2022": "$135.95 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$189.4 B",
+        "name": "danaher",
+        "revenue_2022": "$30.28 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$31.36 B",
+        "name": "generali group",
+        "revenue_2022": "$102.13 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$51.41 B",
+        "name": "m\u00f8ller-maersk",
+        "revenue_2022": "$61.95 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$130.37 B",
+        "name": "lowe's",
+        "revenue_2022": "$96.25 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$53.19 B",
+        "name": "fedex",
+        "revenue_2022": "$91.55 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$55.04 B",
+        "name": "deutsche post",
+        "revenue_2022": "$96.62 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$71.9 B",
+        "name": "pnc financial services",
+        "revenue_2022": "$19.93 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$239.64 B",
+        "name": "broadcom",
+        "revenue_2022": "$28.5 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$32.17 B",
+        "name": "lukoil",
+        "revenue_2022": "$125.11 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$144.62 B",
+        "name": "medtronic",
+        "revenue_2022": "$31.79 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$124.02 B",
+        "name": "sap",
+        "revenue_2022": "$33.18 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$61.31 B",
+        "name": "sk hynix",
+        "revenue_2022": "$37.55 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$31.5 B",
+        "name": "engie",
+        "revenue_2022": "$68.4 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$118.82 B",
+        "name": "lockheed martin",
+        "revenue_2022": "$65.75 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$100.8 B",
+        "name": "blackrock",
+        "revenue_2022": "$20.3 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$61.42 B",
+        "name": "westpac banking group",
+        "revenue_2022": "$20.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$87.98 B",
+        "name": "duke energy",
+        "revenue_2022": "$25.1 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$35.64 B",
+        "name": "dell technologies",
+        "revenue_2022": "$106.84 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$56.87 B",
+        "name": "vinci",
+        "revenue_2022": "$59.08 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$35.19 B",
+        "name": "tokio marine holdings",
+        "revenue_2022": "$50.57 B"
+    },
+    {
+        "country": "mexico",
+        "market_value_apr_2022": "$67.84 B",
+        "name": "am\u00e9rica m\u00f3vil",
+        "revenue_2022": "$48.37 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$28.52 B",
+        "name": "e.on",
+        "revenue_2022": "$91.44 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$59.44 B",
+        "name": "anglo american",
+        "revenue_2022": "$41.52 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$43.16 B",
+        "name": "banco bradesco",
+        "revenue_2022": "$28.33 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$39.03 B",
+        "name": "ing group",
+        "revenue_2022": "$21.49 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$196.86 B",
+        "name": "accenture",
+        "revenue_2022": "$56.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$130.67 B",
+        "name": "honeywell international",
+        "revenue_2022": "$34.39 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$31.38 B",
+        "name": "mizuho financial",
+        "revenue_2022": "$26.76 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$157.26 B",
+        "name": "linde",
+        "revenue_2022": "$30.79 B"
+    },
+    {
+        "country": "luxembourg",
+        "market_value_apr_2022": "$28.98 B",
+        "name": "arcelormittal",
+        "revenue_2022": "$76.65 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$51.21 B",
+        "name": "canadian imperial bank",
+        "revenue_2022": "$18.66 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$32.81 B",
+        "name": "poly developments & holdings group",
+        "revenue_2022": "$42.94 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$77.51 B",
+        "name": "micron technology",
+        "revenue_2022": "$31.17 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$56.23 B",
+        "name": "anz",
+        "revenue_2022": "$18.38 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$30.63 B",
+        "name": "fubon financial",
+        "revenue_2022": "$33.23 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$35.23 B",
+        "name": "china telecom",
+        "revenue_2022": "$68.15 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$63.62 B",
+        "name": "hca healthcare",
+        "revenue_2022": "$59.72 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$50.35 B",
+        "name": "dow",
+        "revenue_2022": "$58.35 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$29.44 B",
+        "name": "telef\u00f3nica",
+        "revenue_2022": "$46.42 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$27.92 B",
+        "name": "china vanke",
+        "revenue_2022": "$71.42 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$77.24 B",
+        "name": "nab - national australia bank",
+        "revenue_2022": "$15.76 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$28.9 B",
+        "name": "cathay financial",
+        "revenue_2022": "$34.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$149.68 B",
+        "name": "qualcomm",
+        "revenue_2022": "$36.04 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$195.52 B",
+        "name": "l'or\u00e9al",
+        "revenue_2022": "$38.16 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$36.45 B",
+        "name": "allstate",
+        "revenue_2022": "$50.59 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$28.87 B",
+        "name": "saic motor",
+        "revenue_2022": "$121.42 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$67.9 B",
+        "name": "icici bank",
+        "revenue_2022": "$21.89 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$20.11 B",
+        "name": "china everbright bank",
+        "revenue_2022": "$42.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$78.17 B",
+        "name": "gilead sciences",
+        "revenue_2022": "$27.37 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$22.69 B",
+        "name": "china pacific insurance",
+        "revenue_2022": "$68.07 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$489.83 B",
+        "name": "nvidia",
+        "revenue_2022": "$26.91 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$133.63 B",
+        "name": "amgen",
+        "revenue_2022": "$25.99 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$147.23 B",
+        "name": "union pacific",
+        "revenue_2022": "$22.66 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$19.9 B",
+        "name": "dai-ichi life insurance",
+        "revenue_2022": "$66.73 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$203.13 B",
+        "name": "nike",
+        "revenue_2022": "$46.89 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$45.32 B",
+        "name": "takeda pharmaceutical",
+        "revenue_2022": "$31.55 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$159.18 B",
+        "name": "philip morris international",
+        "revenue_2022": "$31.51 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$100.22 B",
+        "name": "paypal",
+        "revenue_2022": "$25.56 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$32.45 B",
+        "name": "china resources land",
+        "revenue_2022": "$33.61 B"
+    },
+    {
+        "country": "singapore",
+        "market_value_apr_2022": "$39.71 B",
+        "name": "oversea-chinese banking",
+        "revenue_2022": "$22.89 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$60.55 B",
+        "name": "midea group",
+        "revenue_2022": "$50.6 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.54 B",
+        "name": "travelers",
+        "revenue_2022": "$35.31 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$265.45 B",
+        "name": "eli lilly",
+        "revenue_2022": "$28.32 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$89.98 B",
+        "name": "mondelez international",
+        "revenue_2022": "$28.72 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$185.03 B",
+        "name": "mcdonald's",
+        "revenue_2022": "$23.22 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$98.13 B",
+        "name": "general electric",
+        "revenue_2022": "$74.08 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$19.37 B",
+        "name": "soci\u00e9t\u00e9 g\u00e9n\u00e9rale",
+        "revenue_2022": "$35.57 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$85.36 B",
+        "name": "schneider electric",
+        "revenue_2022": "$34.16 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$84.9 B",
+        "name": "3m",
+        "revenue_2022": "$35.35 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.15 B",
+        "name": "aflac",
+        "revenue_2022": "$22.11 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$28.62 B",
+        "name": "oil & natural gas",
+        "revenue_2022": "$66.28 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$80.48 B",
+        "name": "southern company",
+        "revenue_2022": "$23.23 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$24.54 B",
+        "name": "deutsche bank",
+        "revenue_2022": "$36.7 B"
+    },
+    {
+        "country": "thailand",
+        "market_value_apr_2022": "$31.34 B",
+        "name": "ptt",
+        "revenue_2022": "$70.55 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$27.91 B",
+        "name": "ck hutchison",
+        "revenue_2022": "$36.13 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$74.27 B",
+        "name": "canadian natural resources",
+        "revenue_2022": "$23.97 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$30.71 B",
+        "name": "sun life financial",
+        "revenue_2022": "$29.82 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$69.84 B",
+        "name": "northrop grumman",
+        "revenue_2022": "$35.67 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$51.85 B",
+        "name": "archer daniels midland",
+        "revenue_2022": "$85.26 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$48.64 B",
+        "name": "marathon petroleum",
+        "revenue_2022": "$119.78 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$16.74 B",
+        "name": "china minsheng bank",
+        "revenue_2022": "$50.08 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$19.63 B",
+        "name": "legal & general group",
+        "revenue_2022": "$62.51 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$95.68 B",
+        "name": "netflix",
+        "revenue_2022": "$30.4 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$63.37 B",
+        "name": "progressive",
+        "revenue_2022": "$48.07 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$30.05 B",
+        "name": "longfor group holdings",
+        "revenue_2022": "$34.8 B"
+    },
+    {
+        "country": "singapore",
+        "market_value_apr_2022": "$63.03 B",
+        "name": "dbs",
+        "revenue_2022": "$12.4 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$25.8 B",
+        "name": "cosco shipping",
+        "revenue_2022": "$51.77 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$19.1 B",
+        "name": "china communications construction",
+        "revenue_2022": "$108.41 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$30.22 B",
+        "name": "natwest group",
+        "revenue_2022": "$17.86 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$47.68 B",
+        "name": "exelon",
+        "revenue_2022": "$39.27 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$56.34 B",
+        "name": "humana",
+        "revenue_2022": "$84.09 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$66.42 B",
+        "name": "general dynamics",
+        "revenue_2022": "$38.47 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$20.47 B",
+        "name": "power corp of canada",
+        "revenue_2022": "$57.93 B"
+    },
+    {
+        "country": "qatar",
+        "market_value_apr_2022": "$59.09 B",
+        "name": "qatar national bank",
+        "revenue_2022": "$14.2 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$70.06 B",
+        "name": "bayer",
+        "revenue_2022": "$52.1 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$30.6 B",
+        "name": "kkr",
+        "revenue_2022": "$19.02 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$15.65 B",
+        "name": "country garden holdings",
+        "revenue_2022": "$81.13 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$145.27 B",
+        "name": "nextera energy",
+        "revenue_2022": "$23.74 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$19.29 B",
+        "name": "kb financial group",
+        "revenue_2022": "$33.86 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$15.36 B",
+        "name": "china railway group",
+        "revenue_2022": "$166.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$38.75 B",
+        "name": "hp",
+        "revenue_2022": "$64.98 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$40.26 B",
+        "name": "nordea bank",
+        "revenue_2022": "$13.56 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$39.19 B",
+        "name": "seven & i holdings",
+        "revenue_2022": "$78.47 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$46.27 B",
+        "name": "suncor energy",
+        "revenue_2022": "$31.21 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$169.72 B",
+        "name": "salesforce.com",
+        "revenue_2022": "$26.49 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$81.85 B",
+        "name": "air liquide",
+        "revenue_2022": "$27.58 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$45.14 B",
+        "name": "denso",
+        "revenue_2022": "$49.49 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$35.68 B",
+        "name": "bank of new york mellon",
+        "revenue_2022": "$16.09 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$343.27 B",
+        "name": "mastercard",
+        "revenue_2022": "$18.88 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$20.7 B",
+        "name": "banco do brasil",
+        "revenue_2022": "$29.54 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$49.2 B",
+        "name": "centene",
+        "revenue_2022": "$125.98 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$52.3 B",
+        "name": "hdfc",
+        "revenue_2022": "$18.48 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$60.97 B",
+        "name": "freeport-mcmoran",
+        "revenue_2022": "$24.31 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$82.53 B",
+        "name": "merck kgaa, darmstadt, germany and its affiliates",
+        "revenue_2022": "$23.27 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$26.82 B",
+        "name": "caixabank",
+        "revenue_2022": "$14.64 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$61.35 B",
+        "name": "abb",
+        "revenue_2022": "$28.93 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$34.7 B",
+        "name": "volvo group",
+        "revenue_2022": "$43.36 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$53.05 B",
+        "name": "occidental petroleum",
+        "revenue_2022": "$25.96 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$54.88 B",
+        "name": "national grid",
+        "revenue_2022": "$20.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$47.66 B",
+        "name": "mckesson",
+        "revenue_2022": "$257.01 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$18.17 B",
+        "name": "shinhan financial group",
+        "revenue_2022": "$29.27 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$247.8 B",
+        "name": "asml holding",
+        "revenue_2022": "$20.65 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$57.39 B",
+        "name": "nutrien",
+        "revenue_2022": "$27.63 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$63.51 B",
+        "name": "investor ab",
+        "revenue_2022": "$12.81 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$25.82 B",
+        "name": "kia",
+        "revenue_2022": "$61.01 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$31.17 B",
+        "name": "saint-gobain",
+        "revenue_2022": "$52.2 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$252.91 B",
+        "name": "novo nordisk",
+        "revenue_2022": "$22.38 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$18.03 B",
+        "name": "posco",
+        "revenue_2022": "$66.66 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$116.05 B",
+        "name": "diageo",
+        "revenue_2022": "$19 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$30.57 B",
+        "name": "royal ahold delhaize n.v.",
+        "revenue_2022": "$89.36 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$14.37 B",
+        "name": "picc",
+        "revenue_2022": "$90.1 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$68.82 B",
+        "name": "dominion energy",
+        "revenue_2022": "$13.96 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.23 B",
+        "name": "kroger",
+        "revenue_2022": "$137.89 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$23.35 B",
+        "name": "baoshan iron & steel",
+        "revenue_2022": "$55.52 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$343.32 B",
+        "name": "kweichow moutai",
+        "revenue_2022": "$14.6 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$37.03 B",
+        "name": "xiaomi",
+        "revenue_2022": "$50.91 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$37.67 B",
+        "name": "bank of ningbo",
+        "revenue_2022": "$13.71 B"
+    },
+    {
+        "country": "colombia",
+        "market_value_apr_2022": "$36.07 B",
+        "name": "ecopetrol",
+        "revenue_2022": "$23.43 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$34.94 B",
+        "name": "lyondellbasell industries",
+        "revenue_2022": "$46.15 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$148.42 B",
+        "name": "contemporary amperex technology",
+        "revenue_2022": "$20.14 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$21.62 B",
+        "name": "unicredit",
+        "revenue_2022": "$27.79 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$33.25 B",
+        "name": "amerisourcebergen",
+        "revenue_2022": "$221.1 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$79.45 B",
+        "name": "essilorluxottica",
+        "revenue_2022": "$23.43 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$68.15 B",
+        "name": "inditex",
+        "revenue_2022": "$32.57 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$89.63 B",
+        "name": "starbucks",
+        "revenue_2022": "$30.36 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$43.29 B",
+        "name": "nucor",
+        "revenue_2022": "$39.96 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$65.71 B",
+        "name": "intercontinentalexchange",
+        "revenue_2022": "$10.15 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$73.7 B",
+        "name": "tjx cos",
+        "revenue_2022": "$48.55 B"
+    },
+    {
+        "country": "belgium",
+        "market_value_apr_2022": "$29.5 B",
+        "name": "kbc group",
+        "revenue_2022": "$14.81 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$25.89 B",
+        "name": "tesco",
+        "revenue_2022": "$84.17 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$23.25 B",
+        "name": "boe technology group",
+        "revenue_2022": "$33.78 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$132.17 B",
+        "name": "blackstone",
+        "revenue_2022": "$15.47 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$50.58 B",
+        "name": "american electric",
+        "revenue_2022": "$16.62 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$55.44 B",
+        "name": "macquarie group",
+        "revenue_2022": "$11.21 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$19.7 B",
+        "name": "marubeni",
+        "revenue_2022": "$72.32 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$24.7 B",
+        "name": "swiss re",
+        "revenue_2022": "$46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$67.97 B",
+        "name": "eog resources",
+        "revenue_2022": "$19.78 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$16.12 B",
+        "name": "cnp assurances",
+        "revenue_2022": "$51.78 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$93.89 B",
+        "name": "automatic data processing",
+        "revenue_2022": "$15.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$40.23 B",
+        "name": "phillips 66",
+        "revenue_2022": "$111.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$33.74 B",
+        "name": "tyson foods",
+        "revenue_2022": "$49.52 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$20.8 B",
+        "name": "repsol",
+        "revenue_2022": "$58.8 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$20.28 B",
+        "name": "sumitomo",
+        "revenue_2022": "$48.22 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$30.19 B",
+        "name": "holcim",
+        "revenue_2022": "$29.35 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$100.66 B",
+        "name": "altria group",
+        "revenue_2022": "$21.11 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$99.65 B",
+        "name": "applied materials",
+        "revenue_2022": "$24.15 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$22.61 B",
+        "name": "daimler truck holding",
+        "revenue_2022": "$47 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$41.33 B",
+        "name": "zijin mining group",
+        "revenue_2022": "$37.21 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$86.46 B",
+        "name": "the saudi national bank",
+        "revenue_2022": "$8.63 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$69.46 B",
+        "name": "richemont",
+        "revenue_2022": "$19.81 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$70.75 B",
+        "name": "kering",
+        "revenue_2022": "$20.86 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$29.83 B",
+        "name": "saudi electricity",
+        "revenue_2022": "$18.49 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$37.97 B",
+        "name": "danone",
+        "revenue_2022": "$28.65 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$14.92 B",
+        "name": "nippon steel",
+        "revenue_2022": "$57.54 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$30.55 B",
+        "name": "lg chem",
+        "revenue_2022": "$37.26 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.69 B",
+        "name": "discover financial services",
+        "revenue_2022": "$12.8 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$46.65 B",
+        "name": "couche tard",
+        "revenue_2022": "$58.66 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$13.28 B",
+        "name": "huaxia bank",
+        "revenue_2022": "$26.38 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$15.72 B",
+        "name": "nn group",
+        "revenue_2022": "$22.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$880 M",
+        "name": "fannie mae",
+        "revenue_2022": "$100.33 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$20.43 B",
+        "name": "fresenius",
+        "revenue_2022": "$44.26 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$85.88 B",
+        "name": "marsh & mclennan",
+        "revenue_2022": "$20.33 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$30.97 B",
+        "name": "ameriprise financial",
+        "revenue_2022": "$13.89 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$72.63 B",
+        "name": "becton dickinson",
+        "revenue_2022": "$19.93 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$20.98 B",
+        "name": "panasonic",
+        "revenue_2022": "$65.97 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$16.51 B",
+        "name": "ms&ad insurance",
+        "revenue_2022": "$41.89 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$21.71 B",
+        "name": "orix",
+        "revenue_2022": "$22.73 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$32.19 B",
+        "name": "citic securities",
+        "revenue_2022": "$11.74 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$69.08 B",
+        "name": "first abu dhabi bank",
+        "revenue_2022": "$8.25 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$51.83 B",
+        "name": "bce",
+        "revenue_2022": "$18.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$58.86 B",
+        "name": "schlumberger",
+        "revenue_2022": "$23.67 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$159.94 B",
+        "name": "texas instruments",
+        "revenue_2022": "$18.34 B"
+    },
+    {
+        "country": "indonesia",
+        "market_value_apr_2022": "$50.14 B",
+        "name": "bank rakyat indonesia (bri)",
+        "revenue_2022": "$12.77 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$19.69 B",
+        "name": "standard chartered",
+        "revenue_2022": "$18.88 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$31.77 B",
+        "name": "crh",
+        "revenue_2022": "$31 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$15.09 B",
+        "name": "bank of beijing",
+        "revenue_2022": "$19.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.13 B",
+        "name": "paramount",
+        "revenue_2022": "$28.59 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$17.05 B",
+        "name": "bank of jiangsu",
+        "revenue_2022": "$17.9 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$34.51 B",
+        "name": "dupont de nemours",
+        "revenue_2022": "$16.65 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$27.82 B",
+        "name": "gree electric appliances",
+        "revenue_2022": "$27.88 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$16.53 B",
+        "name": "indian oil",
+        "revenue_2022": "$72.2 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$56.92 B",
+        "name": "dollar general",
+        "revenue_2022": "$34.22 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$52.89 B",
+        "name": "kraft heinz company",
+        "revenue_2022": "$26.04 B"
+    },
+    {
+        "country": "singapore",
+        "market_value_apr_2022": "$20.86 B",
+        "name": "wilmar international",
+        "revenue_2022": "$65.84 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$488 M",
+        "name": "freddie mac",
+        "revenue_2022": "$62.24 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.48 B",
+        "name": "hewlett packard enterprise",
+        "revenue_2022": "$27.86 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$30.53 B",
+        "name": "japan tobacco",
+        "revenue_2022": "$21.16 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$13.6 B",
+        "name": "poste italiane",
+        "revenue_2022": "$37.48 B"
+    },
+    {
+        "country": "singapore",
+        "market_value_apr_2022": "$37.99 B",
+        "name": "united overseas bank",
+        "revenue_2022": "$8.89 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$15.05 B",
+        "name": "china unicom",
+        "revenue_2022": "$50.83 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$42.19 B",
+        "name": "valero energy",
+        "revenue_2022": "$114 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$75.34 B",
+        "name": "csx",
+        "revenue_2022": "$13.12 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$14.7 B",
+        "name": "danske bank",
+        "revenue_2022": "$24.8 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$47.37 B",
+        "name": "fortescue metals group",
+        "revenue_2022": "$20.93 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$8.69 B",
+        "name": "china railway construction",
+        "revenue_2022": "$157.66 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$56.56 B",
+        "name": "moderna",
+        "revenue_2022": "$18.4 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$34.61 B",
+        "name": "woolworths",
+        "revenue_2022": "$38.84 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$26.78 B",
+        "name": "anhui conch cement",
+        "revenue_2022": "$26.05 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$193.1 B",
+        "name": "adobe",
+        "revenue_2022": "$16.13 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$23.65 B",
+        "name": "hartford financial services",
+        "revenue_2022": "$22.39 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$26.04 B",
+        "name": "state street",
+        "revenue_2022": "$11.54 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$119.85 B",
+        "name": "al rajhi bank",
+        "revenue_2022": "$6.74 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$16.34 B",
+        "name": "power construction corporation of china",
+        "revenue_2022": "$70.28 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$57.46 B",
+        "name": "shin-etsu chemical",
+        "revenue_2022": "$17.2 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$63.16 B",
+        "name": "fiserv",
+        "revenue_2022": "$16.23 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$74.68 B",
+        "name": "regeneron pharmaceuticals",
+        "revenue_2022": "$16.07 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.38 B",
+        "name": "eneos holdings",
+        "revenue_2022": "$90.31 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$172.79 B",
+        "name": "tata consultancy services",
+        "revenue_2022": "$25.73 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$13.91 B",
+        "name": "sompo",
+        "revenue_2022": "$35.67 B"
+    },
+    {
+        "country": "austria",
+        "market_value_apr_2022": "$16.24 B",
+        "name": "omv group",
+        "revenue_2022": "$42.02 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$19.73 B",
+        "name": "swiss life holding",
+        "revenue_2022": "$23.54 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$14.76 B",
+        "name": "bank of shanghai",
+        "revenue_2022": "$15.94 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$119.49 B",
+        "name": "american tower",
+        "revenue_2022": "$9.36 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$57.38 B",
+        "name": "pioneer natural resources",
+        "revenue_2022": "$17.87 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$34.81 B",
+        "name": "sun hung kai properties",
+        "revenue_2022": "$10.26 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$38.63 B",
+        "name": "wanhua chemical group",
+        "revenue_2022": "$22.43 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$27.29 B",
+        "name": "sampo",
+        "revenue_2022": "$15.9 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$19.42 B",
+        "name": "china merchants shekou industrial zone holdings",
+        "revenue_2022": "$23.41 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$33.26 B",
+        "name": "haier smart home",
+        "revenue_2022": "$35.16 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$58.35 B",
+        "name": "eaton",
+        "revenue_2022": "$19.63 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$11.99 B",
+        "name": "sk",
+        "revenue_2022": "$85.9 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$44.22 B",
+        "name": "johnson controls international",
+        "revenue_2022": "$24.19 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$17.48 B",
+        "name": "jbs",
+        "revenue_2022": "$64.99 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$60.71 B",
+        "name": "saudi telecom",
+        "revenue_2022": "$16.91 B"
+    },
+    {
+        "country": "bermuda",
+        "market_value_apr_2022": "$15.89 B",
+        "name": "jardine matheson",
+        "revenue_2022": "$35.86 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$86.33 B",
+        "name": "canadian national railway",
+        "revenue_2022": "$11.55 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$93.79 B",
+        "name": "stryker",
+        "revenue_2022": "$17.11 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$29.66 B",
+        "name": "nokia",
+        "revenue_2022": "$26.24 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$22.76 B",
+        "name": "mitsubishi electric",
+        "revenue_2022": "$40.34 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$16.36 B",
+        "name": "nissan motor",
+        "revenue_2022": "$79.17 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$20.42 B",
+        "name": "tata steel",
+        "revenue_2022": "$31.07 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$23.41 B",
+        "name": "heineken",
+        "revenue_2022": "$25.93 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$30.15 B",
+        "name": "bae systems",
+        "revenue_2022": "$26.85 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$83.82 B",
+        "name": "etisalat",
+        "revenue_2022": "$14.52 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$23.74 B",
+        "name": "bt group",
+        "revenue_2022": "$28.84 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$19.63 B",
+        "name": "ctbc financial",
+        "revenue_2022": "$14.93 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$38.07 B",
+        "name": "novatek",
+        "revenue_2022": "$15.4 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.36 B",
+        "name": "greenland holdings group",
+        "revenue_2022": "$84.53 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$28.86 B",
+        "name": "rwe group",
+        "revenue_2022": "$28.99 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$46.78 B",
+        "name": "daikin industries",
+        "revenue_2022": "$26.88 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$11.76 B",
+        "name": "aegon",
+        "revenue_2022": "$26.33 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$32.49 B",
+        "name": "baidu",
+        "revenue_2022": "$19.31 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$28.6 B",
+        "name": "ericsson",
+        "revenue_2022": "$26.95 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$24.66 B",
+        "name": "canon",
+        "revenue_2022": "$31.98 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$22.75 B",
+        "name": "lennar",
+        "revenue_2022": "$28.42 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$18.84 B",
+        "name": "bank of nanjing",
+        "revenue_2022": "$12.17 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$26.39 B",
+        "name": "philips",
+        "revenue_2022": "$20.28 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$52.47 B",
+        "name": "keurig dr pepper",
+        "revenue_2022": "$12.68 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$83.05 B",
+        "name": "china yangtze power",
+        "revenue_2022": "$8.52 B"
+    },
+    {
+        "country": "norway",
+        "market_value_apr_2022": "$34.31 B",
+        "name": "dnb bank",
+        "revenue_2022": "$7.79 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$55.6 B",
+        "name": "emerson electric",
+        "revenue_2022": "$18.55 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$20.62 B",
+        "name": "imperial brands",
+        "revenue_2022": "$22.66 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$104.45 B",
+        "name": "boeing",
+        "revenue_2022": "$62.29 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$43.66 B",
+        "name": "general mills",
+        "revenue_2022": "$18.63 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$31.32 B",
+        "name": "axis bank",
+        "revenue_2022": "$11.41 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$24.82 B",
+        "name": "national bank of canada",
+        "revenue_2022": "$9 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$94.7 B",
+        "name": "the est\u00e9e lauder companies",
+        "revenue_2022": "$17.77 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$20.19 B",
+        "name": "cnh industrial",
+        "revenue_2022": "$33.43 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$13.28 B",
+        "name": "fairfax financial",
+        "revenue_2022": "$23.57 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$41.08 B",
+        "name": "adidas",
+        "revenue_2022": "$25.1 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$22.85 B",
+        "name": "michelin group",
+        "revenue_2022": "$28.13 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$67.06 B",
+        "name": "norfolk southern",
+        "revenue_2022": "$11.14 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$18.25 B",
+        "name": "principal financial group",
+        "revenue_2022": "$14.26 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$53.11 B",
+        "name": "sempra",
+        "revenue_2022": "$13.06 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$15.64 B",
+        "name": "fortum",
+        "revenue_2022": "$132.85 B"
+    },
+    {
+        "country": "mexico",
+        "market_value_apr_2022": "$37.88 B",
+        "name": "grupo mexico",
+        "revenue_2022": "$14.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$25.28 B",
+        "name": "d.r. horton",
+        "revenue_2022": "$28.89 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$47.86 B",
+        "name": "l3harris technologies",
+        "revenue_2022": "$17.81 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$40.31 B",
+        "name": "naspers",
+        "revenue_2022": "$7.01 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$18.06 B",
+        "name": "standard bank group",
+        "revenue_2022": "$15.9 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$55.95 B",
+        "name": "tc energy",
+        "revenue_2022": "$10.48 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$37.75 B",
+        "name": "norilsk nickel",
+        "revenue_2022": "$17.81 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$29.75 B",
+        "name": "naturgy energy group",
+        "revenue_2022": "$26.17 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$65.39 B",
+        "name": "waste management",
+        "revenue_2022": "$17.93 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$28.33 B",
+        "name": "henkel",
+        "revenue_2022": "$23.72 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$46.45 B",
+        "name": "mediatek",
+        "revenue_2022": "$17.66 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$62.03 B",
+        "name": "recruit holdings",
+        "revenue_2022": "$24.8 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$21.93 B",
+        "name": "hengli petrochemical",
+        "revenue_2022": "$30.17 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$40.44 B",
+        "name": "xcel energy",
+        "revenue_2022": "$13.37 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.92 B",
+        "name": "corteva",
+        "revenue_2022": "$15.65 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$19.23 B",
+        "name": "synchrony financial",
+        "revenue_2022": "$11.37 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$13.04 B",
+        "name": "toyota tsusho",
+        "revenue_2022": "$69.53 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$18.92 B",
+        "name": "toyota industries",
+        "revenue_2022": "$23.32 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$204.56 B",
+        "name": "astrazeneca",
+        "revenue_2022": "$38.68 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$3.18 B",
+        "name": "sunac china holdings",
+        "revenue_2022": "$38.49 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$2.78 B",
+        "name": "china evergrande group",
+        "revenue_2022": "$70.4 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$25.7 B",
+        "name": "bridgestone",
+        "revenue_2022": "$29.54 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$26.14 B",
+        "name": "emirates nbd",
+        "revenue_2022": "$8.6 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$15.82 B",
+        "name": "daiwa house industry",
+        "revenue_2022": "$38.86 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$68.56 B",
+        "name": "jd.com",
+        "revenue_2022": "$147.63 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$43.42 B",
+        "name": "kinder morgan",
+        "revenue_2022": "$16.61 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$10.55 B",
+        "name": "china national building",
+        "revenue_2022": "$42.58 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$26.35 B",
+        "name": "fifth third bank",
+        "revenue_2022": "$8.27 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$24.98 B",
+        "name": "firstrand",
+        "revenue_2022": "$10.18 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$15.77 B",
+        "name": "carrefour",
+        "revenue_2022": "$87.81 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$29.14 B",
+        "name": "fujitsu",
+        "revenue_2022": "$32.83 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$24.72 B",
+        "name": "seb ab",
+        "revenue_2022": "$7.55 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$10.48 B",
+        "name": "surgutneftegas",
+        "revenue_2022": "$19.26 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$8.91 B",
+        "name": "new china life insurance",
+        "revenue_2022": "$34.44 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$42.24 B",
+        "name": "barrick gold",
+        "revenue_2022": "$11.94 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$38.65 B",
+        "name": "dsv panalpina",
+        "revenue_2022": "$28.97 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$11.01 B",
+        "name": "talanx",
+        "revenue_2022": "$51.73 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$46.36 B",
+        "name": "vodafone",
+        "revenue_2022": "$53.63 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$58.01 B",
+        "name": "nintendo",
+        "revenue_2022": "$15.24 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$11.47 B",
+        "name": "hana financial group",
+        "revenue_2022": "$13.75 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$15.65 B",
+        "name": "hyundai mobis",
+        "revenue_2022": "$36.42 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$20.32 B",
+        "name": "ntpc",
+        "revenue_2022": "$17 B"
+    },
+    {
+        "country": "malaysia",
+        "market_value_apr_2022": "$24.74 B",
+        "name": "maybank",
+        "revenue_2022": "$9.17 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$80.12 B",
+        "name": "cme group",
+        "revenue_2022": "$4.69 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$42.24 B",
+        "name": "taqa",
+        "revenue_2022": "$12.44 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$54.16 B",
+        "name": "pernod ricard",
+        "revenue_2022": "$11.58 B"
+    },
+    {
+        "country": "indonesia",
+        "market_value_apr_2022": "$26.88 B",
+        "name": "bank mandiri",
+        "revenue_2022": "$9.53 B"
+    },
+    {
+        "country": "mexico",
+        "market_value_apr_2022": "$27.29 B",
+        "name": "femsa",
+        "revenue_2022": "$27.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$29.79 B",
+        "name": "paccar",
+        "revenue_2022": "$23.54 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$34.18 B",
+        "name": "consolidated edison",
+        "revenue_2022": "$13.67 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$20.04 B",
+        "name": "mitsui fudosan",
+        "revenue_2022": "$18.26 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$26.68 B",
+        "name": "evergreen marine corp. (taiwan)",
+        "revenue_2022": "$17.52 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$22.06 B",
+        "name": "komatsu",
+        "revenue_2022": "$24.51 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$24.76 B",
+        "name": "shaanxi coal industry",
+        "revenue_2022": "$22.28 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$11.89 B",
+        "name": "lenovo group",
+        "revenue_2022": "$70.56 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$51.27 B",
+        "name": "fast retailing",
+        "revenue_2022": "$19.27 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$52.66 B",
+        "name": "london stock exchange",
+        "revenue_2022": "$9.27 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$32.71 B",
+        "name": "vonovia",
+        "revenue_2022": "$6.55 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$21.03 B",
+        "name": "aviva",
+        "revenue_2022": "$45.13 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$64.22 B",
+        "name": "sherwin-williams",
+        "revenue_2022": "$19.95 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$22.93 B",
+        "name": "fujifilm holdings",
+        "revenue_2022": "$22.57 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$125.37 B",
+        "name": "intuit",
+        "revenue_2022": "$11.41 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$64.61 B",
+        "name": "lam research",
+        "revenue_2022": "$16.72 B"
+    },
+    {
+        "country": "austria",
+        "market_value_apr_2022": "$13.97 B",
+        "name": "erste group bank",
+        "revenue_2022": "$11.43 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$11.2 B",
+        "name": "lincoln national",
+        "revenue_2022": "$19.18 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$35.55 B",
+        "name": "carrier global",
+        "revenue_2022": "$20.61 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.2 B",
+        "name": "dish network",
+        "revenue_2022": "$17.88 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$11.14 B",
+        "name": "china coal energy",
+        "revenue_2022": "$35.86 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$14.14 B",
+        "name": "continental",
+        "revenue_2022": "$39.91 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$3.15 B",
+        "name": "vtb bank",
+        "revenue_2022": "$21.3 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$38.94 B",
+        "name": "murata manufacturing",
+        "revenue_2022": "$16.28 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$31.13 B",
+        "name": "larsen & toubro",
+        "revenue_2022": "$20.53 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$13.79 B",
+        "name": "ally financial",
+        "revenue_2022": "$10.84 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$52.53 B",
+        "name": "netease",
+        "revenue_2022": "$13.59 B"
+    },
+    {
+        "country": "indonesia",
+        "market_value_apr_2022": "$67.62 B",
+        "name": "bank central asia",
+        "revenue_2022": "$6.1 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$21.5 B",
+        "name": "volvo car",
+        "revenue_2022": "$32.85 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$24.88 B",
+        "name": "intact financial",
+        "revenue_2022": "$14.63 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$49.11 B",
+        "name": "orsted",
+        "revenue_2022": "$10.99 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$28.3 B",
+        "name": "cummins",
+        "revenue_2022": "$24.02 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$42.73 B",
+        "name": "williams",
+        "revenue_2022": "$10.57 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$35.59 B",
+        "name": "capgemini",
+        "revenue_2022": "$21.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$126.34 B",
+        "name": "prologis",
+        "revenue_2022": "$4.83 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$28.56 B",
+        "name": "thales",
+        "revenue_2022": "$19.14 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$13.13 B",
+        "name": "bouygues",
+        "revenue_2022": "$44.43 B"
+    },
+    {
+        "country": "mexico",
+        "market_value_apr_2022": "$21.04 B",
+        "name": "banorte",
+        "revenue_2022": "$10.61 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$25.13 B",
+        "name": "ck asset holdings",
+        "revenue_2022": "$8.32 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$31.81 B",
+        "name": "orange",
+        "revenue_2022": "$50.26 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$34.84 B",
+        "name": "kuehne & nagel international",
+        "revenue_2022": "$35.88 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.83 B",
+        "name": "bunge",
+        "revenue_2022": "$59.15 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$9.59 B",
+        "name": "samsung life insurance",
+        "revenue_2022": "$25.44 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$45.55 B",
+        "name": "vmware",
+        "revenue_2022": "$12.85 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$15.57 B",
+        "name": "albertsons",
+        "revenue_2022": "$71.89 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$10.5 B",
+        "name": "crrc",
+        "revenue_2022": "$34.8 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$27.96 B",
+        "name": "cbre group",
+        "revenue_2022": "$27.75 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$18.19 B",
+        "name": "toshiba",
+        "revenue_2022": "$30.13 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$14.64 B",
+        "name": "samsung c&t",
+        "revenue_2022": "$30.09 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$87.21 B",
+        "name": "infosys",
+        "revenue_2022": "$16.33 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$36.7 B",
+        "name": "prudential",
+        "revenue_2022": "$26.52 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$14.32 B",
+        "name": "yankuang energy group",
+        "revenue_2022": "$16.86 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$69.42 B",
+        "name": "canadian pacific railway",
+        "revenue_2022": "$6.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$15.94 B",
+        "name": "loews",
+        "revenue_2022": "$14.67 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$67.25 B",
+        "name": "tokyo electron",
+        "revenue_2022": "$17.09 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$17.87 B",
+        "name": "lg electronics",
+        "revenue_2022": "$66.12 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$94.67 B",
+        "name": "csl",
+        "revenue_2022": "$10.59 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$18.14 B",
+        "name": "magna international",
+        "revenue_2022": "$36.25 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$81.25 B",
+        "name": "analog devices",
+        "revenue_2022": "$8.44 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$21.19 B",
+        "name": "kubota",
+        "revenue_2022": "$19.99 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$53.86 B",
+        "name": "air products & chemicals",
+        "revenue_2022": "$10.94 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$59.06 B",
+        "name": "newmont mining",
+        "revenue_2022": "$12.25 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$40.01 B",
+        "name": "te connectivity",
+        "revenue_2022": "$15.22 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$68.81 B",
+        "name": "aon",
+        "revenue_2022": "$12.19 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$36.05 B",
+        "name": "telus",
+        "revenue_2022": "$13.43 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$37.7 B",
+        "name": "dollar tree",
+        "revenue_2022": "$26.32 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$19.06 B",
+        "name": "keycorp",
+        "revenue_2022": "$7.45 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$26.88 B",
+        "name": "wtw",
+        "revenue_2022": "$9.58 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9 B",
+        "name": "china zheshang bank",
+        "revenue_2022": "$15.99 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$40.57 B",
+        "name": "wesfarmers",
+        "revenue_2022": "$25.35 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$15.39 B",
+        "name": "suzuki motor",
+        "revenue_2022": "$32.56 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.56 B",
+        "name": "best buy",
+        "revenue_2022": "$51.76 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.82 B",
+        "name": "svb financial group",
+        "revenue_2022": "$6.08 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$142.8 B",
+        "name": "advanced micro devices",
+        "revenue_2022": "$16.43 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$19.89 B",
+        "name": "markel",
+        "revenue_2022": "$12.84 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$44.12 B",
+        "name": "muyuan foodstuff",
+        "revenue_2022": "$11.27 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$46.67 B",
+        "name": "kimberly-clark",
+        "revenue_2022": "$19.79 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$18.56 B",
+        "name": "swedbank",
+        "revenue_2022": "$6.75 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$43.62 B",
+        "name": "cognizant",
+        "revenue_2022": "$18.51 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$28.58 B",
+        "name": "corning",
+        "revenue_2022": "$14.07 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$39.15 B",
+        "name": "infineon technologies",
+        "revenue_2022": "$13.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.76 B",
+        "name": "citizens financial group",
+        "revenue_2022": "$6.88 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$38.57 B",
+        "name": "devon energy",
+        "revenue_2022": "$13.69 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$17.94 B",
+        "name": "asahi group holdings",
+        "revenue_2022": "$20.35 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$22.87 B",
+        "name": "jsw steel",
+        "revenue_2022": "$17.1 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$11.16 B",
+        "name": "lumen technologies",
+        "revenue_2022": "$19.69 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.03 B",
+        "name": "regions financial",
+        "revenue_2022": "$6.63 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$19.52 B",
+        "name": "svenska handelsbanken",
+        "revenue_2022": "$6.34 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$21.49 B",
+        "name": "raymond james financial",
+        "revenue_2022": "$10.43 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$84.46 B",
+        "name": "byd",
+        "revenue_2022": "$32.78 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$63.42 B",
+        "name": "illinois tool works",
+        "revenue_2022": "$14.46 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$43.53 B",
+        "name": "pinduoduo",
+        "revenue_2022": "$14.57 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$61.39 B",
+        "name": "activision blizzard",
+        "revenue_2022": "$8.8 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$12.59 B",
+        "name": "liberty global",
+        "revenue_2022": "$10.54 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$68.17 B",
+        "name": "colgate-palmolive",
+        "revenue_2022": "$17.42 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$24.88 B",
+        "name": "sse",
+        "revenue_2022": "$10.33 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$23.75 B",
+        "name": "nan ya plastics",
+        "revenue_2022": "$14.74 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$12.95 B",
+        "name": "vivendi",
+        "revenue_2022": "$11.31 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$36.77 B",
+        "name": "baxter international",
+        "revenue_2022": "$12.78 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$8.48 B",
+        "name": "fosun international",
+        "revenue_2022": "$25.02 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$12.04 B",
+        "name": "weichai power",
+        "revenue_2022": "$31.4 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$11.58 B",
+        "name": "fidelity national financial",
+        "revenue_2022": "$15.63 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$35.6 B",
+        "name": "parker-hannifin",
+        "revenue_2022": "$15.29 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$20.21 B",
+        "name": "vedanta limited",
+        "revenue_2022": "$16.38 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$9.51 B",
+        "name": "woori financial group",
+        "revenue_2022": "$11.47 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$45.06 B",
+        "name": "sysco",
+        "revenue_2022": "$60.74 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$34.21 B",
+        "name": "telstra",
+        "revenue_2022": "$15.82 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$18.68 B",
+        "name": "credit suisse group",
+        "revenue_2022": "$30.07 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$29.24 B",
+        "name": "rogers communications",
+        "revenue_2022": "$11.79 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.03 B",
+        "name": "m&t bank",
+        "revenue_2022": "$5.89 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$62.63 B",
+        "name": "boston scientific",
+        "revenue_2022": "$11.89 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$27.27 B",
+        "name": "edison international",
+        "revenue_2022": "$14.9 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$5.07 B",
+        "name": "financiere de l'odet",
+        "revenue_2022": "$23.37 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.81 B",
+        "name": "sumitomo mitsui trust",
+        "revenue_2022": "$10.67 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$25.1 B",
+        "name": "entergy",
+        "revenue_2022": "$11.71 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$30.25 B",
+        "name": "swisscom",
+        "revenue_2022": "$12.23 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$25.8 B",
+        "name": "enbw-energie baden",
+        "revenue_2022": "$38 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$59.33 B",
+        "name": "hikvision",
+        "revenue_2022": "$12.99 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$12.82 B",
+        "name": "nippon yusen",
+        "revenue_2022": "$19.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$21.35 B",
+        "name": "stanley black & decker",
+        "revenue_2022": "$16.83 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$30.94 B",
+        "name": "oneok",
+        "revenue_2022": "$17.27 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$58.74 B",
+        "name": "marriott international",
+        "revenue_2022": "$13.86 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$49.91 B",
+        "name": "warner bros. discovery",
+        "revenue_2022": "$12.18 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$36.66 B",
+        "name": "s.f. holding",
+        "revenue_2022": "$32.05 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$28.01 B",
+        "name": "delta air lines",
+        "revenue_2022": "$35.1 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$11.16 B",
+        "name": "bharat petroleum",
+        "revenue_2022": "$43.2 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$33.94 B",
+        "name": "halliburton",
+        "revenue_2022": "$16.13 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$5.15 B",
+        "name": "metallurgical corp of china",
+        "revenue_2022": "$77.3 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$22.08 B",
+        "name": "northern trust",
+        "revenue_2022": "$6.57 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$10.91 B",
+        "name": "heidelbergcement",
+        "revenue_2022": "$22.13 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$19.81 B",
+        "name": "china steel",
+        "revenue_2022": "$16.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.72 B",
+        "name": "eversource energy",
+        "revenue_2022": "$9.86 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$21.93 B",
+        "name": "sany heavy industry",
+        "revenue_2022": "$17.59 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$138.97 B",
+        "name": "herm\u00e8s international",
+        "revenue_2022": "$10.62 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$17.89 B",
+        "name": "international paper",
+        "revenue_2022": "$21.78 B"
+    },
+    {
+        "country": "turkey",
+        "market_value_apr_2022": "$6.79 B",
+        "name": "ko\u00e7 holding",
+        "revenue_2022": "$38.84 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$40.47 B",
+        "name": "nidec",
+        "revenue_2022": "$17.07 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$111.43 B",
+        "name": "meituan",
+        "revenue_2022": "$27.79 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$44.83 B",
+        "name": "kotak mahindra bank",
+        "revenue_2022": "$7.92 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$19.97 B",
+        "name": "teck resources",
+        "revenue_2022": "$10.75 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$27.77 B",
+        "name": "southwest airlines",
+        "revenue_2022": "$15.79 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$32.23 B",
+        "name": "deutsche boerse",
+        "revenue_2022": "$5.26 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$25.02 B",
+        "name": "labcorp",
+        "revenue_2022": "$16.12 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$20.28 B",
+        "name": "china tower corp.",
+        "revenue_2022": "$13.43 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$17.11 B",
+        "name": "inpex",
+        "revenue_2022": "$11.32 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$23.43 B",
+        "name": "coca-cola european partners",
+        "revenue_2022": "$16.24 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$98.98 B",
+        "name": "wuliangye yibin",
+        "revenue_2022": "$8.48 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$2.14 B",
+        "name": "shimao property holdings",
+        "revenue_2022": "$21.82 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$7.97 B",
+        "name": "idemitsu kosan",
+        "revenue_2022": "$54.54 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$29.96 B",
+        "name": "formosa petrochemical",
+        "revenue_2022": "$22.2 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$84.07 B",
+        "name": "crown castle international",
+        "revenue_2022": "$6.6 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$26.27 B",
+        "name": "firstenergy",
+        "revenue_2022": "$11.41 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$21.52 B",
+        "name": "rongsheng petrochemical",
+        "revenue_2022": "$27.22 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$15.11 B",
+        "name": "hindalco industries",
+        "revenue_2022": "$24.33 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$13.96 B",
+        "name": "bank of hangzhou",
+        "revenue_2022": "$8.7 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$7.28 B",
+        "name": "renault",
+        "revenue_2022": "$54.62 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$108.6 B",
+        "name": "international holding company",
+        "revenue_2022": "$7.75 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$21.93 B",
+        "name": "cincinnati financial",
+        "revenue_2022": "$9.63 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$19.04 B",
+        "name": "mitsubishi estate",
+        "revenue_2022": "$12.14 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$15.18 B",
+        "name": "cleveland-cliffs",
+        "revenue_2022": "$22.35 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$7.03 B",
+        "name": "grupo acs",
+        "revenue_2022": "$32.9 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$13.58 B",
+        "name": "cgn power",
+        "revenue_2022": "$12.47 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$14.5 B",
+        "name": "ase technology holding",
+        "revenue_2022": "$21.31 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$7.25 B",
+        "name": "jfe holdings",
+        "revenue_2022": "$36.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$26.51 B",
+        "name": "dte energy",
+        "revenue_2022": "$15.46 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$12.76 B",
+        "name": "china hongqiao group",
+        "revenue_2022": "$17.76 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$44.83 B",
+        "name": "nxp semiconductors",
+        "revenue_2022": "$11.06 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$15.48 B",
+        "name": "western digital",
+        "revenue_2022": "$18.94 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$90.52 B",
+        "name": "booking holdings",
+        "revenue_2022": "$10.96 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$16.11 B",
+        "name": "aeon",
+        "revenue_2022": "$78.17 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$28.21 B",
+        "name": "first republic bank",
+        "revenue_2022": "$5.53 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$13.52 B",
+        "name": "lufax holding",
+        "revenue_2022": "$9.67 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$61.42 B",
+        "name": "atlas copco",
+        "revenue_2022": "$12.92 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$61.05 B",
+        "name": "fidelity national information (fis)",
+        "revenue_2022": "$13.88 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$8.74 B",
+        "name": "mitsubishi chemical",
+        "revenue_2022": "$34.61 B"
+    },
+    {
+        "country": "portugal",
+        "market_value_apr_2022": "$19.63 B",
+        "name": "edp-energias de portugal",
+        "revenue_2022": "$17.86 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$19.16 B",
+        "name": "kyocera",
+        "revenue_2022": "$16.22 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$6.02 B",
+        "name": "xiamen c&d",
+        "revenue_2022": "$109.61 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$42.88 B",
+        "name": "autozone",
+        "revenue_2022": "$15.6 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$4.36 B",
+        "name": "china taiping insurance",
+        "revenue_2022": "$40.91 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$34.25 B",
+        "name": "cenovus energy",
+        "revenue_2022": "$36.98 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$36.31 B",
+        "name": "neste",
+        "revenue_2022": "$17.91 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$27.21 B",
+        "name": "porsche automobil holding",
+        "revenue_2022": "$151 M"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$22.04 B",
+        "name": "h&m - hennes & mauritz",
+        "revenue_2022": "$23.85 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$59.18 B",
+        "name": "relx",
+        "revenue_2022": "$9.96 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$24.11 B",
+        "name": "pg&e",
+        "revenue_2022": "$20.64 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.81 B",
+        "name": "republic services",
+        "revenue_2022": "$11.3 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$36.35 B",
+        "name": "ross stores",
+        "revenue_2022": "$18.92 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$32.8 B",
+        "name": "wec energy group",
+        "revenue_2022": "$8.32 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$17.06 B",
+        "name": "cardinal health",
+        "revenue_2022": "$171.29 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$14.61 B",
+        "name": "carmax",
+        "revenue_2022": "$31.9 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$10.52 B",
+        "name": "china development financial",
+        "revenue_2022": "$12.76 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$31.76 B",
+        "name": "riyad bank",
+        "revenue_2022": "$3.23 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$49.81 B",
+        "name": "thomson reuters",
+        "revenue_2022": "$6.35 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$10.13 B",
+        "name": "transneft",
+        "revenue_2022": "$14.11 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$29.61 B",
+        "name": "ferguson",
+        "revenue_2022": "$22.74 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$43.56 B",
+        "name": "iqvia",
+        "revenue_2022": "$13.87 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$54.13 B",
+        "name": "hong kong exchanges",
+        "revenue_2022": "$2.69 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.37 B",
+        "name": "ppg",
+        "revenue_2022": "$17.23 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$2.81 B",
+        "name": "legend holding",
+        "revenue_2022": "$75.97 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$50.16 B",
+        "name": "ecolab",
+        "revenue_2022": "$12.73 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$6.77 B",
+        "name": "sinopharm group",
+        "revenue_2022": "$80.8 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$31.7 B",
+        "name": "luxshare precision industry",
+        "revenue_2022": "$23.87 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$2.86 B",
+        "name": "seazen group",
+        "revenue_2022": "$26.4 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$37.87 B",
+        "name": "global payments",
+        "revenue_2022": "$8.52 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$4.17 B",
+        "name": "china energy engineering",
+        "revenue_2022": "$49.75 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$52.26 B",
+        "name": "safran",
+        "revenue_2022": "$17.89 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$131.75 B",
+        "name": "s&p global",
+        "revenue_2022": "$8.3 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$19.88 B",
+        "name": "huntington bank",
+        "revenue_2022": "$6.42 B"
+    },
+    {
+        "country": "bermuda",
+        "market_value_apr_2022": "$17.86 B",
+        "name": "arch capital group",
+        "revenue_2022": "$8.88 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$3.93 B",
+        "name": "jackson financial",
+        "revenue_2022": "$8.85 B"
+    },
+    {
+        "country": "israel",
+        "market_value_apr_2022": "$15.87 B",
+        "name": "bank leumi",
+        "revenue_2022": "$5.82 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$34.77 B",
+        "name": "trane technologies",
+        "revenue_2022": "$14.14 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$21.2 B",
+        "name": "veolia environnement",
+        "revenue_2022": "$33.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$46.92 B",
+        "name": "o'reilly automotive",
+        "revenue_2022": "$13.33 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$30.86 B",
+        "name": "biogen",
+        "revenue_2022": "$10.35 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$15.81 B",
+        "name": "publicis groupe",
+        "revenue_2022": "$13.87 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$1.7 B",
+        "name": "hanwha",
+        "revenue_2022": "$46.14 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$24.17 B",
+        "name": "the mosaic company",
+        "revenue_2022": "$12.36 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$56.8 B",
+        "name": "bharti airtel",
+        "revenue_2022": "$14.98 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$16.04 B",
+        "name": "daqin railway",
+        "revenue_2022": "$11.83 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$60.27 B",
+        "name": "uber",
+        "revenue_2022": "$17.45 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$34.46 B",
+        "name": "stmicroelectronics",
+        "revenue_2022": "$12.78 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.58 B",
+        "name": "gemdale",
+        "revenue_2022": "$14.32 B"
+    },
+    {
+        "country": "belgium",
+        "market_value_apr_2022": "$9.71 B",
+        "name": "ageas",
+        "revenue_2022": "$14.42 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$11.13 B",
+        "name": "quanta computer",
+        "revenue_2022": "$40.44 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$18.04 B",
+        "name": "george weston",
+        "revenue_2022": "$43.37 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.02 B",
+        "name": "weyerhaeuser",
+        "revenue_2022": "$10.2 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$11.11 B",
+        "name": "korea electric power",
+        "revenue_2022": "$52.9 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$21.51 B",
+        "name": "fox",
+        "revenue_2022": "$13.59 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.58 B",
+        "name": "mitsubishi heavy industries",
+        "revenue_2022": "$34.06 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.98 B",
+        "name": "steel dynamics",
+        "revenue_2022": "$20.43 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$100.89 B",
+        "name": "keyence",
+        "revenue_2022": "$6.43 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$51.73 B",
+        "name": "longi green energy technology",
+        "revenue_2022": "$11.76 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$56.35 B",
+        "name": "reckitt benckiser group",
+        "revenue_2022": "$18.2 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$16.3 B",
+        "name": "coal india",
+        "revenue_2022": "$14.03 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$8.21 B",
+        "name": "aisin seiki",
+        "revenue_2022": "$35.4 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$42.6 B",
+        "name": "digital realty trust",
+        "revenue_2022": "$4.77 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$22.12 B",
+        "name": "tata motors",
+        "revenue_2022": "$39.04 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$10.54 B",
+        "name": "resona holdings",
+        "revenue_2022": "$7.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.33 B",
+        "name": "simon property group",
+        "revenue_2022": "$5.12 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$6.97 B",
+        "name": "industrial bank of korea",
+        "revenue_2022": "$9.44 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$24.76 B",
+        "name": "clp holdings",
+        "revenue_2022": "$10.8 B"
+    },
+    {
+        "country": "kuwait",
+        "market_value_apr_2022": "$25.78 B",
+        "name": "national bank of kuwait",
+        "revenue_2022": "$3.82 B"
+    },
+    {
+        "country": "singapore",
+        "market_value_apr_2022": "$32.06 B",
+        "name": "singtel",
+        "revenue_2022": "$11.84 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$28.64 B",
+        "name": "coinbase",
+        "revenue_2022": "$7.84 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.04 B",
+        "name": "centerpoint energy",
+        "revenue_2022": "$8.35 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$44.95 B",
+        "name": "saudi arabian mining",
+        "revenue_2022": "$7.14 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$6.47 B",
+        "name": "china cinda asset management",
+        "revenue_2022": "$10.29 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.72 B",
+        "name": "asahi kasei",
+        "revenue_2022": "$21.79 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$10.9 B",
+        "name": "nec",
+        "revenue_2022": "$27.72 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.81 B",
+        "name": "united airlines holdings",
+        "revenue_2022": "$28.98 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$17.88 B",
+        "name": "mgm resorts",
+        "revenue_2022": "$9.68 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$28.7 B",
+        "name": "dsm",
+        "revenue_2022": "$10.88 B"
+    },
+    {
+        "country": "indonesia",
+        "market_value_apr_2022": "$31.88 B",
+        "name": "telkom indonesia",
+        "revenue_2022": "$10.02 B"
+    },
+    {
+        "country": "poland",
+        "market_value_apr_2022": "$7.55 B",
+        "name": "pkn orlen",
+        "revenue_2022": "$34.07 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$11.51 B",
+        "name": "guotai junan securities",
+        "revenue_2022": "$6.7 B"
+    },
+    {
+        "country": "norway",
+        "market_value_apr_2022": "$19.14 B",
+        "name": "norsk hydro",
+        "revenue_2022": "$16.89 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$23.28 B",
+        "name": "formosa plastics",
+        "revenue_2022": "$9.79 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$9.18 B",
+        "name": "nrg energy",
+        "revenue_2022": "$26.9 B"
+    },
+    {
+        "country": "malaysia",
+        "market_value_apr_2022": "$21.18 B",
+        "name": "public bank",
+        "revenue_2022": "$4.51 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.67 B",
+        "name": "tcl",
+        "revenue_2022": "$25.27 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$12.74 B",
+        "name": "huatai securities",
+        "revenue_2022": "$6.04 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$23.53 B",
+        "name": "kellogg",
+        "revenue_2022": "$14.18 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$37.83 B",
+        "name": "inner mongolia yili",
+        "revenue_2022": "$16.52 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$14.8 B",
+        "name": "wpp",
+        "revenue_2022": "$17.61 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.35 B",
+        "name": "omnicom group",
+        "revenue_2022": "$14.27 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.78 B",
+        "name": "sekisui house",
+        "revenue_2022": "$23.39 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$34.52 B",
+        "name": "cheniere energy",
+        "revenue_2022": "$17.64 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$26.55 B",
+        "name": "sandvik",
+        "revenue_2022": "$11.61 B"
+    },
+    {
+        "country": "thailand",
+        "market_value_apr_2022": "$12.8 B",
+        "name": "siam cement",
+        "revenue_2022": "$16.56 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$20.31 B",
+        "name": "east japan railway",
+        "revenue_2022": "$17.67 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$19.45 B",
+        "name": "abu dhabi commercial bank",
+        "revenue_2022": "$4.23 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$4.43 B",
+        "name": "huishang bank",
+        "revenue_2022": "$10.26 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$13.08 B",
+        "name": "great wall motor",
+        "revenue_2022": "$20.52 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.56 B",
+        "name": "haitong securities",
+        "revenue_2022": "$7.8 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$6.23 B",
+        "name": "dongfeng motor group",
+        "revenue_2022": "$17.5 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$3.9 B",
+        "name": "china reinsurance group",
+        "revenue_2022": "$25.39 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$20.39 B",
+        "name": "henderson land",
+        "revenue_2022": "$3.07 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$32.16 B",
+        "name": "samsung sdi",
+        "revenue_2022": "$11.84 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$24.04 B",
+        "name": "fortis (canada)",
+        "revenue_2022": "$7.54 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$10.82 B",
+        "name": "sk telecom",
+        "revenue_2022": "$14.63 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$12.8 B",
+        "name": "hal trust",
+        "revenue_2022": "$8.68 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$56.14 B",
+        "name": "banco btg pactual",
+        "revenue_2022": "$2.71 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.15 B",
+        "name": "baker hughes company",
+        "revenue_2022": "$20.59 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$37.32 B",
+        "name": "gallagher",
+        "revenue_2022": "$8.05 B"
+    },
+    {
+        "country": "bermuda",
+        "market_value_apr_2022": "$12.67 B",
+        "name": "everest re group",
+        "revenue_2022": "$11.87 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.49 B",
+        "name": "amphenol",
+        "revenue_2022": "$10.88 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$13.1 B",
+        "name": "american airlines group",
+        "revenue_2022": "$34.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$48.87 B",
+        "name": "kla",
+        "revenue_2022": "$8.16 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$29.26 B",
+        "name": "astellas pharma",
+        "revenue_2022": "$11.84 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$17.87 B",
+        "name": "otsuka holding",
+        "revenue_2022": "$13.64 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$3.01 B",
+        "name": "china bohai bank",
+        "revenue_2022": "$10.56 B"
+    },
+    {
+        "country": "thailand",
+        "market_value_apr_2022": "$10.82 B",
+        "name": "kasikornbank",
+        "revenue_2022": "$8.14 B"
+    },
+    {
+        "country": "israel",
+        "market_value_apr_2022": "$12.88 B",
+        "name": "bank hapoalim",
+        "revenue_2022": "$5.64 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$22.85 B",
+        "name": "woodside petroleum",
+        "revenue_2022": "$7.01 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$33.32 B",
+        "name": "mtr",
+        "revenue_2022": "$6.07 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$10.46 B",
+        "name": "tatneft",
+        "revenue_2022": "$17.39 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$4.1 B",
+        "name": "power finance",
+        "revenue_2022": "$10.15 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$85.74 B",
+        "name": "zoetis",
+        "revenue_2022": "$7.78 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$48.01 B",
+        "name": "lonza group",
+        "revenue_2022": "$5.92 B"
+    },
+    {
+        "country": "france",
+        "market_value_apr_2022": "$9.86 B",
+        "name": "eiffage",
+        "revenue_2022": "$22.69 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$7.08 B",
+        "name": "sumitomo chemical",
+        "revenue_2022": "$24.41 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$68.84 B",
+        "name": "vertex pharmaceuticals",
+        "revenue_2022": "$7.6 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.39 B",
+        "name": "constellation energy",
+        "revenue_2022": "$19.65 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$4.19 B",
+        "name": "cifi holdings group",
+        "revenue_2022": "$16.77 B"
+    },
+    {
+        "country": "austria",
+        "market_value_apr_2022": "$3.98 B",
+        "name": "raiffeisen bank international",
+        "revenue_2022": "$9.05 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$10.16 B",
+        "name": "whirlpool",
+        "revenue_2022": "$21.98 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$14.43 B",
+        "name": "siemens energy",
+        "revenue_2022": "$32.51 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$13.27 B",
+        "name": "westrock",
+        "revenue_2022": "$19.3 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$7.36 B",
+        "name": "samsung fire & marine",
+        "revenue_2022": "$18.34 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$8.75 B",
+        "name": "us steel",
+        "revenue_2022": "$20.45 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$18.74 B",
+        "name": "upm-kymmene",
+        "revenue_2022": "$11.6 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$16.21 B",
+        "name": "formosa chemicals",
+        "revenue_2022": "$13.1 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$14.96 B",
+        "name": "sk innovation",
+        "revenue_2022": "$40.91 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$16.49 B",
+        "name": "telia",
+        "revenue_2022": "$10.29 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$7.85 B",
+        "name": "t&d holdings",
+        "revenue_2022": "$20.27 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$6.24 B",
+        "name": "mapfre",
+        "revenue_2022": "$23.48 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$39.09 B",
+        "name": "hcl technologies",
+        "revenue_2022": "$11.19 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$12.58 B",
+        "name": "sumitomo realty",
+        "revenue_2022": "$8.42 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.34 B",
+        "name": "westlake chemical",
+        "revenue_2022": "$11.78 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$30.79 B",
+        "name": "apollo global management",
+        "revenue_2022": "$4.83 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$22.72 B",
+        "name": "united rentals",
+        "revenue_2022": "$9.72 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$23.08 B",
+        "name": "diamondback energy",
+        "revenue_2022": "$6.8 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.04 B",
+        "name": "otis worldwide",
+        "revenue_2022": "$14.3 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$4.46 B",
+        "name": "chongqing rural bank",
+        "revenue_2022": "$8.68 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$27.77 B",
+        "name": "ball",
+        "revenue_2022": "$13.93 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$15.68 B",
+        "name": "stora enso",
+        "revenue_2022": "$12.01 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$15.1 B",
+        "name": "yang ming marine transport",
+        "revenue_2022": "$11.95 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$7.93 B",
+        "name": "phoenix group holdings",
+        "revenue_2022": "$33.53 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$38.44 B",
+        "name": "wipro",
+        "revenue_2022": "$10.07 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$20.57 B",
+        "name": "power grid of india",
+        "revenue_2022": "$5.61 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$8.83 B",
+        "name": "absa group",
+        "revenue_2022": "$9.04 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$12.07 B",
+        "name": "novolipetsk steel",
+        "revenue_2022": "$16.18 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$8.61 B",
+        "name": "sumitomo electric",
+        "revenue_2022": "$29.99 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$9.31 B",
+        "name": "st. james's place",
+        "revenue_2022": "$24.42 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$14.77 B",
+        "name": "grasim industries",
+        "revenue_2022": "$12.35 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$21.23 B",
+        "name": "segro",
+        "revenue_2022": "$751 M"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$19.32 B",
+        "name": "mega financial holding",
+        "revenue_2022": "$2.62 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$16.05 B",
+        "name": "zhongsheng group holdings",
+        "revenue_2022": "$27.15 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$4.88 B",
+        "name": "shin kong financial",
+        "revenue_2022": "$15.59 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$20.82 B",
+        "name": "cms energy",
+        "revenue_2022": "$7.4 B"
+    },
+    {
+        "country": "chile",
+        "market_value_apr_2022": "$4.84 B",
+        "name": "quinenco",
+        "revenue_2022": "$8.46 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$12.57 B",
+        "name": "evonik industries",
+        "revenue_2022": "$18.69 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$41.33 B",
+        "name": "east money information",
+        "revenue_2022": "$2.13 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$13.04 B",
+        "name": "qbe insurance group",
+        "revenue_2022": "$13.95 B"
+    },
+    {
+        "country": "malaysia",
+        "market_value_apr_2022": "$11.85 B",
+        "name": "tenaga nasional",
+        "revenue_2022": "$12.7 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$36.14 B",
+        "name": "naver",
+        "revenue_2022": "$6.14 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$12.01 B",
+        "name": "tdk",
+        "revenue_2022": "$16.26 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$12.09 B",
+        "name": "nomura",
+        "revenue_2022": "$12.89 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$3.73 B",
+        "name": "jinke property group",
+        "revenue_2022": "$15.58 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$5.79 B",
+        "name": "tokyo electric power",
+        "revenue_2022": "$47.93 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$22.9 B",
+        "name": "cdw",
+        "revenue_2022": "$20.82 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$46.07 B",
+        "name": "the hershey company",
+        "revenue_2022": "$8.97 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$42.06 B",
+        "name": "itc",
+        "revenue_2022": "$7.91 B"
+    },
+    {
+        "country": "poland",
+        "market_value_apr_2022": "$8.57 B",
+        "name": "pgnig group",
+        "revenue_2022": "$18.29 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$19.98 B",
+        "name": "mtn group",
+        "revenue_2022": "$12.28 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$39.01 B",
+        "name": "compass group",
+        "revenue_2022": "$24.5 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$18.02 B",
+        "name": "wr berkley",
+        "revenue_2022": "$9.46 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$59.77 B",
+        "name": "moody's",
+        "revenue_2022": "$6.22 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$18.97 B",
+        "name": "genuine parts",
+        "revenue_2022": "$19.7 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$37.02 B",
+        "name": "beijing-shanghai high-speed railway",
+        "revenue_2022": "$4.75 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.13 B",
+        "name": "aluminum corp of china",
+        "revenue_2022": "$41.84 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$8.41 B",
+        "name": "kansai electric power",
+        "revenue_2022": "$26.01 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$70.56 B",
+        "name": "public storage",
+        "revenue_2022": "$3.42 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$53.27 B",
+        "name": "china international travel service",
+        "revenue_2022": "$10.37 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$49.37 B",
+        "name": "sika",
+        "revenue_2022": "$10.12 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$14.95 B",
+        "name": "signature bank",
+        "revenue_2022": "$2.48 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$30.58 B",
+        "name": "t rowe price",
+        "revenue_2022": "$7.67 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.74 B",
+        "name": "international flavors & fragrances",
+        "revenue_2022": "$11.66 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$20.11 B",
+        "name": "atlantia",
+        "revenue_2022": "$6.21 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$47.95 B",
+        "name": "roper technologies",
+        "revenue_2022": "$6.09 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$21.72 B",
+        "name": "shanghai international port",
+        "revenue_2022": "$5.18 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$43.87 B",
+        "name": "daiichi sankyo",
+        "revenue_2022": "$9.42 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.45 B",
+        "name": "rakuten",
+        "revenue_2022": "$15.31 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$13.25 B",
+        "name": "franklin resources",
+        "revenue_2022": "$8.72 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$7.83 B",
+        "name": "bank of ireland",
+        "revenue_2022": "$8.37 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$8.9 B",
+        "name": "mitsui osk lines",
+        "revenue_2022": "$10.81 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$24.3 B",
+        "name": "saudi british bank",
+        "revenue_2022": "$2.38 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$25 B",
+        "name": "ameren",
+        "revenue_2022": "$6.39 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$34.87 B",
+        "name": "chunghwa telecom",
+        "revenue_2022": "$7.54 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$29.86 B",
+        "name": "assa abloy",
+        "revenue_2022": "$11.07 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.76 B",
+        "name": "zte",
+        "revenue_2022": "$17.64 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$6.61 B",
+        "name": "asr nederland",
+        "revenue_2022": "$11.72 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$17.33 B",
+        "name": "conagra brands",
+        "revenue_2022": "$11.37 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$9.18 B",
+        "name": "commerzbank",
+        "revenue_2022": "$14.84 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$32.15 B",
+        "name": "bajaj finserv",
+        "revenue_2022": "$8.64 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$4.73 B",
+        "name": "hyundai steel",
+        "revenue_2022": "$19.95 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$5.38 B",
+        "name": "lg display",
+        "revenue_2022": "$26.09 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$6.89 B",
+        "name": "kt",
+        "revenue_2022": "$21.74 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$1.7 B",
+        "name": "logan property holdings",
+        "revenue_2022": "$12.2 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$37.09 B",
+        "name": "public service enterprise group",
+        "revenue_2022": "$8.73 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$4.47 B",
+        "name": "en+ group international",
+        "revenue_2022": "$14.12 B"
+    },
+    {
+        "country": "turkey",
+        "market_value_apr_2022": "$3.2 B",
+        "name": "isbank",
+        "revenue_2022": "$12.25 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.64 B",
+        "name": "expeditors international",
+        "revenue_2022": "$16.68 B"
+    },
+    {
+        "country": "luxembourg",
+        "market_value_apr_2022": "$8.59 B",
+        "name": "ternium",
+        "revenue_2022": "$15.98 B"
+    },
+    {
+        "country": "czech republic",
+        "market_value_apr_2022": "$23.39 B",
+        "name": "cez group",
+        "revenue_2022": "$10.9 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$9.3 B",
+        "name": "isuzu motors",
+        "revenue_2022": "$21.7 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$20.81 B",
+        "name": "renesas electronics",
+        "revenue_2022": "$9.05 B"
+    },
+    {
+        "country": "netherlands",
+        "market_value_apr_2022": "$46.2 B",
+        "name": "universal music group",
+        "revenue_2022": "$10.05 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$4.08 B",
+        "name": "unipol gruppo",
+        "revenue_2022": "$16.89 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$5.49 B",
+        "name": "sbi holdings",
+        "revenue_2022": "$5.58 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$26.31 B",
+        "name": "techtronic industries",
+        "revenue_2022": "$13.2 B"
+    },
+    {
+        "country": "spain",
+        "market_value_apr_2022": "$19.21 B",
+        "name": "ferrovial",
+        "revenue_2022": "$8.01 B"
+    },
+    {
+        "country": "malaysia",
+        "market_value_apr_2022": "$12.22 B",
+        "name": "cimb group holdings",
+        "revenue_2022": "$5.66 B"
+    },
+    {
+        "country": "finland",
+        "market_value_apr_2022": "$25.87 B",
+        "name": "kone",
+        "revenue_2022": "$12.43 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$3.08 B",
+        "name": "e-mart",
+        "revenue_2022": "$21.77 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.87 B",
+        "name": "gf securities",
+        "revenue_2022": "$5.85 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.86 B",
+        "name": "china merchants securities",
+        "revenue_2022": "$5.7 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$9.53 B",
+        "name": "annaly capital management",
+        "revenue_2022": "$731 M"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$18.25 B",
+        "name": "coles group",
+        "revenue_2022": "$29.38 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$24.77 B",
+        "name": "central japan railway",
+        "revenue_2022": "$8.25 B"
+    },
+    {
+        "country": "turkey",
+        "market_value_apr_2022": "$2.79 B",
+        "name": "sabanci holding",
+        "revenue_2022": "$10.51 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$11.06 B",
+        "name": "yuanta financial holding",
+        "revenue_2022": "$5.77 B"
+    },
+    {
+        "country": "chile",
+        "market_value_apr_2022": "$3.49 B",
+        "name": "antarchile",
+        "revenue_2022": "$24.9 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$10.81 B",
+        "name": "hmm",
+        "revenue_2022": "$12.05 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$18.04 B",
+        "name": "seagate technology",
+        "revenue_2022": "$11.97 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$11.24 B",
+        "name": "alleghany",
+        "revenue_2022": "$12 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$15.04 B",
+        "name": "guosen securities",
+        "revenue_2022": "$3.76 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.03 B",
+        "name": "avis budget group",
+        "revenue_2022": "$9.31 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$5.72 B",
+        "name": "jiangxi copper",
+        "revenue_2022": "$68.46 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$6.49 B",
+        "name": "mitsubishi ufj lease",
+        "revenue_2022": "$14.05 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$13.03 B",
+        "name": "sumitomo metal mining",
+        "revenue_2022": "$10.71 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$9.22 B",
+        "name": "asustek computer",
+        "revenue_2022": "$19.16 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$16.58 B",
+        "name": "associated british foods",
+        "revenue_2022": "$18.99 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$22 B",
+        "name": "china national nuclear power",
+        "revenue_2022": "$9.6 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$10.03 B",
+        "name": "china international capital",
+        "revenue_2022": "$3.61 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$11.4 B",
+        "name": "china molybdenum",
+        "revenue_2022": "$26.77 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$11.77 B",
+        "name": "equitable holdings",
+        "revenue_2022": "$11.04 B"
+    },
+    {
+        "country": "germany",
+        "market_value_apr_2022": "$8.65 B",
+        "name": "covestro",
+        "revenue_2022": "$18.8 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$6.99 B",
+        "name": "m&g",
+        "revenue_2022": "$23.38 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$57.93 B",
+        "name": "shopify",
+        "revenue_2022": "$4.61 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$4.22 B",
+        "name": "shanghai construction",
+        "revenue_2022": "$43.4 B"
+    },
+    {
+        "country": "sweden",
+        "market_value_apr_2022": "$19.43 B",
+        "name": "essity",
+        "revenue_2022": "$14.59 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$25.52 B",
+        "name": "ww grainger",
+        "revenue_2022": "$13.02 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$5.53 B",
+        "name": "canara bank",
+        "revenue_2022": "$12.68 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$12.43 B",
+        "name": "viatris",
+        "revenue_2022": "$17.86 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$29.84 B",
+        "name": "american water works",
+        "revenue_2022": "$3.93 B"
+    },
+    {
+        "country": "taiwan",
+        "market_value_apr_2022": "$20.33 B",
+        "name": "united microelectronics",
+        "revenue_2022": "$7.63 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$21.23 B",
+        "name": "vf",
+        "revenue_2022": "$11.62 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$90.64 B",
+        "name": "intuitive surgical",
+        "revenue_2022": "$5.91 B"
+    },
+    {
+        "country": "italy",
+        "market_value_apr_2022": "$18.32 B",
+        "name": "snam",
+        "revenue_2022": "$3.9 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$28.23 B",
+        "name": "vestas wind systems",
+        "revenue_2022": "$18.42 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$11.61 B",
+        "name": "subaru",
+        "revenue_2022": "$25.15 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$2.46 B",
+        "name": "jiangsu zhongnan construction group",
+        "revenue_2022": "$14 B"
+    },
+    {
+        "country": "denmark",
+        "market_value_apr_2022": "$17.76 B",
+        "name": "carlsberg",
+        "revenue_2022": "$10.59 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$10.86 B",
+        "name": "builders firstsource",
+        "revenue_2022": "$19.89 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$16.03 B",
+        "name": "semiconductor manufacturing international",
+        "revenue_2022": "$5.51 B"
+    },
+    {
+        "country": "poland",
+        "market_value_apr_2022": "$10.9 B",
+        "name": "pko bank polski",
+        "revenue_2022": "$4.45 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$14.99 B",
+        "name": "enn energy holdings",
+        "revenue_2022": "$14.44 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$8.86 B",
+        "name": "wh group",
+        "revenue_2022": "$27.29 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$17.53 B",
+        "name": "amcor",
+        "revenue_2022": "$13.59 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$2.81 B",
+        "name": "korea gas",
+        "revenue_2022": "$24.03 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$7.68 B",
+        "name": "jefferies financial",
+        "revenue_2022": "$8.64 B"
+    },
+    {
+        "country": "russia",
+        "market_value_apr_2022": "$11.5 B",
+        "name": "severstal",
+        "revenue_2022": "$11.63 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$31.95 B",
+        "name": "alexandria real estate equities",
+        "revenue_2022": "$2.11 B"
+    },
+    {
+        "country": "switzerland",
+        "market_value_apr_2022": "$10.34 B",
+        "name": "julius baer group",
+        "revenue_2022": "$4.95 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$9.09 B",
+        "name": "sanlam",
+        "revenue_2022": "$14.42 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$14.07 B",
+        "name": "emaar properties",
+        "revenue_2022": "$7.86 B"
+    },
+    {
+        "country": "vietnam",
+        "market_value_apr_2022": "$16.94 B",
+        "name": "joint stock commercial bank for foreign trade of vietnam",
+        "revenue_2022": "$3.91 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$37.7 B",
+        "name": "motorola solutions",
+        "revenue_2022": "$8.17 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$9.28 B",
+        "name": "shanghai rural commercial bank",
+        "revenue_2022": "$5.77 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$6.76 B",
+        "name": "braskem",
+        "revenue_2022": "$19.57 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$7.54 B",
+        "name": "bank of baroda",
+        "revenue_2022": "$12.06 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$9.91 B",
+        "name": "s-oil",
+        "revenue_2022": "$23.98 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$23.18 B",
+        "name": "tractor supply",
+        "revenue_2022": "$12.96 B"
+    },
+    {
+        "country": "australia",
+        "market_value_apr_2022": "$10.27 B",
+        "name": "suncorp group",
+        "revenue_2022": "$9.88 B"
+    },
+    {
+        "country": "hungary",
+        "market_value_apr_2022": "$7.08 B",
+        "name": "mol hungarian oil",
+        "revenue_2022": "$19.64 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$28.85 B",
+        "name": "aptiv",
+        "revenue_2022": "$15.62 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$7.04 B",
+        "name": "voya financial",
+        "revenue_2022": "$4.23 B"
+    },
+    {
+        "country": "south korea",
+        "market_value_apr_2022": "$3.37 B",
+        "name": "gs holdings",
+        "revenue_2022": "$17.67 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$10.16 B",
+        "name": "gerdau (cosigua)",
+        "revenue_2022": "$14.52 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$34.27 B",
+        "name": "equity residential",
+        "revenue_2022": "$2.43 B"
+    },
+    {
+        "country": "qatar",
+        "market_value_apr_2022": "$16.4 B",
+        "name": "qatar islamic bank",
+        "revenue_2022": "$1.82 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$29.2 B",
+        "name": "hormel foods",
+        "revenue_2022": "$11.97 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$5.46 B",
+        "name": "shenwan hongyuan group",
+        "revenue_2022": "$6.81 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$7.59 B",
+        "name": "reinsurance group of america",
+        "revenue_2022": "$16.65 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$16.16 B",
+        "name": "quest diagnostics",
+        "revenue_2022": "$10.68 B"
+    },
+    {
+        "country": "belgium",
+        "market_value_apr_2022": "$10.12 B",
+        "name": "solvay",
+        "revenue_2022": "$13.52 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$21.29 B",
+        "name": "pembina pipeline",
+        "revenue_2022": "$6.95 B"
+    },
+    {
+        "country": "saudi arabia",
+        "market_value_apr_2022": "$17.6 B",
+        "name": "banque saudi fransi",
+        "revenue_2022": "$2.19 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$33.91 B",
+        "name": "smc",
+        "revenue_2022": "$6.4 B"
+    },
+    {
+        "country": "south africa",
+        "market_value_apr_2022": "$15.28 B",
+        "name": "sasol",
+        "revenue_2022": "$15.54 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$11.66 B",
+        "name": "molson coors brewing",
+        "revenue_2022": "$10.28 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$6.91 B",
+        "name": "macy's",
+        "revenue_2022": "$25.29 B"
+    },
+    {
+        "country": "colombia",
+        "market_value_apr_2022": "$10.89 B",
+        "name": "bancolombia",
+        "revenue_2022": "$6.08 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$41.75 B",
+        "name": "cintas",
+        "revenue_2022": "$7.62 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$5.48 B",
+        "name": "china international marine",
+        "revenue_2022": "$25.3 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$7.46 B",
+        "name": "huaneng power international",
+        "revenue_2022": "$31.47 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$27.23 B",
+        "name": "restaurant brands international",
+        "revenue_2022": "$5.74 B"
+    },
+    {
+        "country": "poland",
+        "market_value_apr_2022": "$6.44 B",
+        "name": "grupa pzu",
+        "revenue_2022": "$10.1 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$19.19 B",
+        "name": "kao",
+        "revenue_2022": "$12.91 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$1.85 B",
+        "name": "agile group holdings",
+        "revenue_2022": "$11.52 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$7.57 B",
+        "name": "arrow electronics",
+        "revenue_2022": "$34.48 B"
+    },
+    {
+        "country": "china",
+        "market_value_apr_2022": "$8.54 B",
+        "name": "shenzhen overseas",
+        "revenue_2022": "$14.88 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$7.98 B",
+        "name": "tenet healthcare",
+        "revenue_2022": "$19.45 B"
+    },
+    {
+        "country": "colombia",
+        "market_value_apr_2022": "$4.78 B",
+        "name": "grupo aval",
+        "revenue_2022": "$10.27 B"
+    },
+    {
+        "country": "thailand",
+        "market_value_apr_2022": "$17.53 B",
+        "name": "cp all",
+        "revenue_2022": "$17.65 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$14.82 B",
+        "name": "geely automobile holdings",
+        "revenue_2022": "$15.76 B"
+    },
+    {
+        "country": "united kingdom",
+        "market_value_apr_2022": "$5.96 B",
+        "name": "centrica",
+        "revenue_2022": "$20.28 B"
+    },
+    {
+        "country": "united arab emirates",
+        "market_value_apr_2022": "$12.38 B",
+        "name": "dubai islamic bank",
+        "revenue_2022": "$3.16 B"
+    },
+    {
+        "country": "brazil",
+        "market_value_apr_2022": "$14.66 B",
+        "name": "suzano papel e celulose",
+        "revenue_2022": "$7.59 B"
+    },
+    {
+        "country": "hong kong",
+        "market_value_apr_2022": "$18.28 B",
+        "name": "link reit",
+        "revenue_2022": "$1.47 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$35.28 B",
+        "name": "yum! brands",
+        "revenue_2022": "$6.58 B"
+    },
+    {
+        "country": "canada",
+        "market_value_apr_2022": "$19.43 B",
+        "name": "first quantum minerals",
+        "revenue_2022": "$8.29 B"
+    },
+    {
+        "country": "ireland",
+        "market_value_apr_2022": "$12.59 B",
+        "name": "aercap holdings",
+        "revenue_2022": "$4.52 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$12.21 B",
+        "name": "first horizon",
+        "revenue_2022": "$3.15 B"
+    },
+    {
+        "country": "japan",
+        "market_value_apr_2022": "$10.34 B",
+        "name": "dentsu",
+        "revenue_2022": "$9.88 B"
+    },
+    {
+        "country": "united states",
+        "market_value_apr_2022": "$19.08 B",
+        "name": "molina healthcare",
+        "revenue_2022": "$27.77 B"
+    },
+    {
+        "country": "india",
+        "market_value_apr_2022": "$3.62 B",
+        "name": "union bank of india",
+        "revenue_2022": "$11.28 B"
+    }
+]
