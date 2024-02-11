@@ -12,7 +12,7 @@ def saveJsonFile(data, output_file):
 
 # Supponendo che ABS_PATH e INPUT_FOLDER siano definiti come nel tuo script
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = os.path.join(ABS_PATH, "output/block-paesi/unknown.json")
+INPUT_FOLDER = os.path.join(ABS_PATH, "unified_final_table_new.json")
 OUTPUT_FOLDER = os.path.join(ABS_PATH, "output") # Modificato per includere una sottocartella "output"
 
 data = readJsonFile(INPUT_FOLDER)
@@ -24,7 +24,7 @@ i=0
         #print(f"company name: {element["company_name"]}, trade name: {element["trade_name"]}")
 #print(i)
 
-
+i=0
 for element in data:
-    if element["location_city"]:
-        print(element["company_name"])
+    i+=1
+print(i)

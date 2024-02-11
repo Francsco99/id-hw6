@@ -13,7 +13,7 @@ def saveJsonFile(data, output_file):
 
 # Supponendo che ABS_PATH e INPUT_FOLDER siano definiti come nel tuo script
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = os.path.join(ABS_PATH, "fixed_total.json")
+INPUT_FOLDER = os.path.join(ABS_PATH, "outp.json")
 OUTPUT_FOLDER = os.path.join(ABS_PATH, "output") # Modificato per includere una sottocartella "output"
 
 # Assicurati che la cartella di output esista
@@ -32,7 +32,7 @@ def searchDateRighe(element, year, date_righe):
 # Aggiornamento della funzione dataBlocking per gestire correttamente match.group()
 def dataBlocking(data, dizionario, lista):
     for element in data:
-        anno_fondazione = str(element["found_date"])
+        anno_fondazione = str(element["found_year"])
         if (len(anno_fondazione) == 4) and (anno_fondazione[0] in ["1", "2"]):  # tipo 2005 o 1999
             searchDateRighe(element, anno_fondazione, dizionario)
         else:
@@ -42,7 +42,7 @@ def dataBlocking(data, dizionario, lista):
                 searchDateRighe(element, match.group(), dizionario)  # Uso match.group() per ottenere la stringa
             else:
                 searchDateRighe(element, "unknown", dizionario)  # Uso "unknown" per anni non identificabili
-                if not(element["found_date"]):
+                if not(element["found_year"]):
                     lista.append(element)
 
 data = readJsonFile(INPUT_FOLDER)
@@ -52,5 +52,5 @@ problemi = []
 dataBlocking(data, date_righe, problemi)
 print(date_righe.keys())
 # Salvataggio del file JSON
-output_file_path = os.path.join(OUTPUT_FOLDER, "date_righe.json")  # Definizione del percorso del file di output
+output_file_path = os.path.join(OUTPUT_FOLDER, "found_year_block.json")  # Definizione del percorso del file di output
 saveJsonFile(date_righe, output_file_path)  # Salvataggio del file
