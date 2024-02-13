@@ -23,8 +23,10 @@ no_addres_country=0
 no_addres_city=0
 no_city_country=0
 no_addres_country_city=0
-
+no_industry=0
+no_sector=0
 num_elementi=0
+no_name=0
 
 no_found_date=0
 for element in data:
@@ -44,8 +46,13 @@ for element in data:
         no_addres+=1
     if(not element["found_date"]):
         no_found_date+=1
+    if(not element["sector"]):
+        no_sector +=1
+    if(not element["industry"]):
+        no_industry +=1
+    if(not element["company_name"]):
+        no_name+=1
     num_elementi+=1
-
 print("No address: ",no_addres)
 print("No city: ",no_city)
 print("No country: ",no_country)
@@ -54,4 +61,7 @@ print("No address-country: ",no_addres_country)
 print("No country-city: ",no_city_country)
 print("No address-contry-city: ",no_addres_country_city)
 print("No found-date: ",no_found_date)
+print("No industry: ",no_industry)
+print("No sector: ",no_sector)
+print("No name: ",no_name)
 print("Numero di elementi: ",num_elementi)

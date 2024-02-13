@@ -1,30 +1,31 @@
-import os
-import json
+import pandas as pd
+import recordlinkage
+import recordlinkage.preprocessing
+import time
 
-def readJsonFile(input_file):
-    with open(input_file, 'r') as f:
-        data = json.load(f)
-    return data
+# Lista di valori per la colonna "company_name"
+company_names = ["BAD APPLE CIDER", "BAD APPLE"]
+industries = ["59200 - Sound recording and music publishing activities","11030 - Manufacture of cider and other fruit wines"]
+# Creazione del DataFrame
+df = pd.DataFrame({'company_name': company_names,'industry':industries})
+# Trasforma tutte le stringhe del DataFrame in minuscolo
+df = df.applymap(lambda x: x.lower() if isinstance(x, str) else x)
+print(df)
+# Creazione di un indice per le coppie candidate
+indexer = recordlinkage.Index()
 
-def saveJsonFile(data, output_file):
-    with open(output_file, "w") as jsonFile:
-        json.dump(data, jsonFile, indent=4)
+indexer.full()  # Sostituire con il campo chiave appropriato
+candidate_links = indexer.index(df)
+tempo_candidate_links = time.time()
 
-# Supponendo che ABS_PATH e INPUT_FOLDER siano definiti come nel tuo script
-ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = os.path.join(ABS_PATH, "unified_final_table_new.json")
-OUTPUT_FOLDER = os.path.join(ABS_PATH, "output") # Modificato per includere una sottocartella "output"
+print(candidate_links)
 
-data = readJsonFile(INPUT_FOLDER)
-i=0
+# Comparazione delle coppie candidate basata su più attributi
+compare = recordlinkage.Compare()
 
-#for element in data:
-    #if element["trade_name"]:
-        #i+=1
-        #print(f"company name: {element["company_name"]}, trade name: {element["trade_name"]}")
-#print(i)
+compare.string('company_name', 'company_name', method='cosine')
+compare.string('industry','industry',method='cosine',missing_value=0.1)
 
-i=0
-for element in data:
-    i+=1
-print(i)
+#compare.string('location_city','location_city',method='jarowinkler',missing_value=0.2)
+features = compare.compute(candidate_links, df)
+print(features)
