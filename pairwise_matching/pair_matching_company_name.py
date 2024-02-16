@@ -1,13 +1,11 @@
 import pandas as pd
 import recordlinkage
 import recordlinkage.preprocessing
-
-# Caricamento del DataFrame dal file JSON
-df = pd.read_json('/Users/fspezzano/vscode/id-hw6/blocking/final_table_new.json')
-
+import time
+import os
 
 # Lista delle sigle da rimuovere
-company_forms_separated_lowercase = [
+COMPANY_SIGLE = [
     "s.p.a.", "societa per azioni", "spa", "s.p.a", "& co", "spa limited", "and spa limited", "and spa ltd", "spa ltd", "& spa ltd", "& spa limited",
     "s.r.l.", "srl", "& spa",
     "inc.", "incorporated", "corporation limited", "limited", "corporation", "unlimited corp.", "corp.", "corp", "unlimited",
@@ -19,9 +17,20 @@ company_forms_separated_lowercase = [
     "co. ltd", "ges.m.b.h.", "m.b.h.", "gmbh","llc careers", "llp careers", "ltd. careers","inc. careers","& co careers", " "
 ]
 
-# Trasforma tutte le stringhe del DataFrame in minuscolo
-df = df.map(lambda x: x.lower() if isinstance(x, str) else x)
-df['company_name'] = df['company_name'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in company_forms_separated_lowercase]))
+# Percorsi delle cartelle di input e output
+absPath = os.path.dirname(os.path.abspath(__file__))
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/final_table_lower.json'
+OUTPUT_FOLDER = os.path.join(absPath,'json/final_table_company_name_sigle.json')
+
+start_time = time.time()
+
+# Caricamento del DataFrame dal file JSON
+df = pd.read_json(INPUT_FOLDER)
+
+#df['company_name'] = df['company_name'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in COMPANY_SIGLE]))
+# Rimozione dei caratteri non alfanumerici dal campo 'company_name'
+df['company_name'] = df['company_name'].str.replace(r'[^a-zA-Z0-9]', '')
+tempo_lettura_json= time.time()
 
 # Creazione di un indice per le coppie candidate
 indexer = recordlinkage.Index()
@@ -40,8 +49,9 @@ compare.string('industry','industry',method='cosine',missing_value=0.1)
 features = compare.compute(candidate_links, df)
 
 # Selezione delle coppie con punteggi alti (esempio: somma dei punteggi > soglia)
-matches = features[features.sum(axis=1) > 1.3]  # Soglia da adattare
-linked_records = matches.index
+matches = features[features.sum(axis=1) > 1]  # Soglia da adattare
+
+tempo_creazione_coppie_candidate = time.time()
 
 def piuLungo(val1,val2):
     if len(str(val1))> len(str(val2)):
@@ -71,13 +81,20 @@ def unify_matches(df, matches):
     df = df.drop_duplicates()
     return df
 
-
 df_unified = unify_matches(df, matches)
+
+tempo_unione_coppie_rimozione_duplicati = time.time()
 
 # Salvataggio del DataFrame unificato
 # Converti il DataFrame in una stringa JSON con indentazione
 json_str = df_unified.to_json(orient='records', indent=4)
 
 # Salva la stringa JSON in un file
-with open('/Users/fspezzano/vscode/id-hw6/blocking/pairwise_output_company_name.json', 'w') as f:
+with open(OUTPUT_FOLDER, 'w') as f:
     f.write(json_str)
+
+print("tempo lettura json: ",tempo_lettura_json-start_time)
+print("tempo creazione coppie candidate: ",tempo_creazione_coppie_candidate-tempo_lettura_json)
+print("tempo unione coppie e rimozione dupes",tempo_unione_coppie_rimozione_duplicati-tempo_creazione_coppie_candidate)
+print("tempo_totale: ",time.time()-start_time)
+print("match totali controllati: ",len(matches))

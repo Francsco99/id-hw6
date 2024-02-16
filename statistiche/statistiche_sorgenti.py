@@ -1,6 +1,8 @@
 import csv
 import os
 import json
+import matplotlib.pyplot as plt
+
 
 def salvare_dizionario_csv(dizionario, percorso_file_csv):
     # funzione per scrivere in un dizionario in un file CSV
@@ -17,7 +19,7 @@ def salvare_dizionario_csv(dizionario, percorso_file_csv):
 # Ottieni il percorso assoluto della directory corrente
 absPath = os.path.dirname(os.path.abspath(__file__))
 # Directory contenente i file JSON delle fonti
-dataSource = os.path.join(absPath, "sources_json")
+dataSource = '/Users/fspezzano/vscode/id-hw6/schema_mediato/valentine/sources_json'
 dataOutput = os.path.join(absPath, "output")
 files = os.listdir(dataSource)
 
@@ -127,3 +129,29 @@ salvare_dizionario_csv(distribuzione_colonne_ordinata, os.path.join(dataOutput, 
 salvare_dizionario_csv(distribuzione_righe_ordinata, os.path.join(dataOutput, "distribuzione_righe.csv"))
 salvare_dizionario_csv(distribuzione_righe_nomi,os.path.join(dataOutput,"righe_nomi.csv"))
 salvare_dizionario_csv(distribuzione_colonne_nomi,os.path.join(dataOutput,"colonne_nomi.csv"))
+
+def plot_distribution(data, title, xlabel, ylabel):
+    if not data:
+        print("No data available for plotting.")
+        return
+    
+    keys = list(data.keys())
+    values = list(data.values())
+    
+    plt.figure(figsize=(10, 6))  # Set figure background color
+    plt.bar(range(len(keys)), values, color='#346c4e')  # Bar color
+    plt.xlabel(xlabel, color='black')  # X-axis label color
+    plt.ylabel(ylabel, color='black')  # Y-axis label color
+    plt.title(title, color='black')  # Title color
+    plt.xticks(range(len(keys)), keys, rotation=315, ha='center', color='black')  # X-axis tick labels color
+    plt.yticks(color='black')  # Y-axis tick labels color
+    plt.grid(axis='y', linestyle='dashed', color='gray')  # Grid color
+    plt.tight_layout()  # Adjust layout to prevent overlap of labels
+    plt.show()
+
+# Plot distribution of columns
+plot_distribution(distribuzione_colonne_ordinata, 'Distribuzione colonne', 'Numero di colonne', 'Numero di tabelle')
+
+# Plot distribution of rows
+print("Distribution of Rows:", distribuzione_righe_ordinata)
+plot_distribution(distribuzione_righe_ordinata, 'Distribuzione righe', 'Numero di righe', 'Numero di tabelle')

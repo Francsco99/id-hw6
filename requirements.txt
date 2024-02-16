@@ -1,0 +1,6 @@
+pandas
+xlrd
+valentine
+translators
+python-Levenshtein
+recordlinkage

@@ -1,9 +1,9 @@
 import json
 import os
 
-ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = os.path.join(ABS_PATH, "json/final_table.json")
-OUTPUT_FOLDER = os.path.join(ABS_PATH, "json/fixed/")
+
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/final_table_lower.json'
+
 
 def readJsonFile(input_file):
     with open(input_file, 'r') as f:
@@ -27,7 +27,7 @@ no_industry=0
 no_sector=0
 num_elementi=0
 no_name=0
-
+nulli=0
 no_found_date=0
 for element in data:
     if (not element["location_city"])and(not element["country"]and (not element["address"])):
@@ -53,6 +53,9 @@ for element in data:
     if(not element["company_name"]):
         no_name+=1
     num_elementi+=1
+    for k,v in element.items():
+        if v=='':
+            nulli+=1
 print("No address: ",no_addres)
 print("No city: ",no_city)
 print("No country: ",no_country)
@@ -65,3 +68,4 @@ print("No industry: ",no_industry)
 print("No sector: ",no_sector)
 print("No name: ",no_name)
 print("Numero di elementi: ",num_elementi)
+print("Elementi nulli: ",nulli)

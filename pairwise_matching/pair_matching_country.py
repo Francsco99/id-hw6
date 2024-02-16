@@ -2,75 +2,34 @@ import pandas as pd
 import recordlinkage
 import recordlinkage.preprocessing
 import time
+import os
+
+# Lista delle sigle da rimuovere
+COMPANY_SIGLE = [
+    "s.p.a.", "societa per azioni", "spa", "s.p.a", "& co", "spa limited", "and spa limited", "and spa ltd", "spa ltd", "& spa ltd", "& spa limited",
+    "s.r.l.", "srl", "& spa",
+    "inc.", "incorporated", "corporation limited", "limited", "corporation", "unlimited corp.", "corp.", "corp", "unlimited",
+    "inc.", "l.l.c", "l.l.c.", "l.l.c.", "the", "inc", "inc uk limited",
+    "llc", "limited liability company", "gmbh", "gesellschaft mit beschrankter haftung", "public company ltd",
+    "ag", "a.g.", "aktiengesellschaft", "public company", "ltd.", "limited", "ltd", "lp", "l.p", "l.p.", "societe par actions simplifiee",
+    "sa", "societe anonyme", "s.a", "s.a.", "& spa limited", "tbk.",
+    "bv", "besloten vennootschap", "plc", "tbk", "a.s", "t.a.s.", "as", "a.s.", "a-s", "oyj", "oy", "careers", "co.", "company", "co", "co.,ltd", "co., ltd.", "co.,ltd.",
+    "co. ltd", "ges.m.b.h.", "m.b.h.", "gmbh","llc careers", "llp careers", "ltd. careers","inc. careers","& co careers", " "
+]
+
+
+
+# Percorsi delle cartelle di input e output
+absPath = os.path.dirname(os.path.abspath(__file__))
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/blocking/json/country_blocks'
+OUTPUT_FOLDER = os.path.join(absPath,'json/country')
 
 start_time = time.time()
-# Caricamento del DataFrame dal file JSON
-df = pd.read_json('/Users/fspezzano/vscode/id-hw6/blocking/output/block-paesi/test_country.json')
-
-# Trasforma tutte le stringhe del DataFrame in minuscolo
-df = df.applymap(lambda x: x.lower() if isinstance(x, str) else x)
-tempo_lower_case = time.time()
-print("Tempo per mettere lowercase: ",tempo_lower_case-start_time)
-
-# Creazione di un indice per le coppie candidate
-indexer = recordlinkage.Index()
-
-indexer.full()  # Sostituire con il campo chiave appropriato
-tempo_index_full=time.time()
-print("Tempo per index full: ",tempo_index_full-tempo_lower_case)
-#indexer.block('country')
-tempo_index_block=time.time()
-#print("Tempo per index block: ",tempo_index_block-start_time)
-candidate_links = indexer.index(df)
-tempo_candidate_links = time.time()
-print("Tempo per creare coppie candidate: ",tempo_candidate_links-tempo_index_full)
-print(len(candidate_links))
-# Comparazione delle coppie candidate basata su più attributi
-compare = recordlinkage.Compare()
-
-compare.string('company_name', 'company_name', method='jarowinkler')
-compare.string('industry','industry',method='jarowinkler',missing_value=0.2)
-compare.string('location_city','location_city',method='jarowinkler',missing_value=0.2)
-
-tempo_comparazione_coppie = time.time()
-print("Tempo per comparazione coppie: ",tempo_comparazione_coppie-tempo_candidate_links)
-
-# Calcolo dei punteggi di similarità
-features = compare.compute(candidate_links, df)
-tempo_calcolo_punteggi = time.time()
-print("Tempo per calcolare i punteggi: ",tempo_calcolo_punteggi-tempo_comparazione_coppie)
-print(len(features))
-
-# Selezione delle coppie con punteggi alti (esempio: somma dei punteggi > soglia)
-print(features[features.sum(axis=1)])
-matches = features[features.sum(axis=1) > 1.7]  # Soglia da adattare
-
-print(len(matches))
-
-#matches = features
-tempo_selezione_link = time.time()
-print("Tempo per selezione link: ",tempo_selezione_link-tempo_calcolo_punteggi)
-
-"""
-for i, record_pair in enumerate(linked_records):
-    print("match: ", i+1)
-    index1, index2 = record_pair
-    record1 = df.loc[index1]
-    record2 = df.loc[index2]
-    print("Record 1:\n", record1["company_code"])
-    print("Record 2:\n", record2["company_code"])
-    print("\n")
-print("\n")
-print("\n")
-print("\n")
-print("\n") 
-"""
 
 def piuLungo(val1,val2):
     if len(str(val1))> len(str(val2)):
         return val1
     return val2
-
 
 def unify_matches(df, matches):
     for index_pair in matches.index:
@@ -95,15 +54,71 @@ def unify_matches(df, matches):
     df = df.drop_duplicates()
     return df
 
+def saveFile(df,out_path):
+    out_df = df.to_json(orient='records', indent=4)
+    with open(out_path, 'w') as f:
+        f.write(out_df)
 
-df_unified = unify_matches(df, matches)
+# Elenco dei file nella cartella di input
+input_files = os.listdir(INPUT_FOLDER)
+num_files = len(input_files)
+conteggio=0
+match_totali=0
+# Creazione di un indice per le coppie candidate
+indexer = recordlinkage.Index()
+indexer.block("country") 
 
-tempo_unifica_elima_doppi = time.time()
-print("Tempo per eliminazione doppi e unifica: ",tempo_unifica_elima_doppi-tempo_selezione_link)
-# Salvataggio del DataFrame unificato
-# Converti il DataFrame in una stringa JSON con indentazione
-json_str = df_unified.to_json(orient='records', indent=4)
+# Comparazione delle coppie candidate basata su più attributi
+compare = recordlinkage.Compare()
 
-# Salva la stringa JSON in un file
-with open('/Users/fspezzano/vscode/id-hw6/blocking/pairwise_country/test-proc.json', 'w') as f:
-    f.write(json_str)
+compare.string('country','country',method='cosine')
+compare.string('company_name', 'company_name', method='cosine')
+compare.string('industry','industry',method='cosine',missing_value=0.1)
+
+for input_file in input_files:
+    conteggio+=1
+    print("FILE CORRENTE ",input_file)
+
+    input_path = os.path.join(INPUT_FOLDER, input_file)
+    output_file = os.path.join(OUTPUT_FOLDER, input_file.replace('.json', '-proc.json'))
+    
+    # Caricamento del DataFrame dal file JSON
+    df = pd.read_json(input_path)
+
+    df['company_name'] = df['company_name'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in COMPANY_SIGLE]))
+
+    # Controllo se il DataFrame è vuoto
+    if df.empty:
+        saveFile(df,output_file)
+        print(f"{input_file} è vuoto, copiato in output.")
+        continue
+
+    '''# Controllo se tutti i valori del DataFrame sono stop word
+    if df.map(lambda x: isinstance(x, str) and x.isspace()).all().all():
+        saveFile(df,output_file)
+        print(f"{input_file} contiene solo stop word, copiato in output")
+        continue'''
+    
+    # Controllo se il file ha una sola entry
+    if len(df) == 1:
+        saveFile(df,output_file)
+        print(f"{input_file} contiene una sola entry.")
+        continue
+
+    candidate_links = indexer.index(df)
+
+    # Calcolo dei punteggi di similarità
+    features = compare.compute(candidate_links, df)
+
+    # Selezione delle coppie con punteggi alti (esempio: somma dei punteggi > soglia)
+    matches = features[features.sum(axis=1) > 1.7]  # Soglia da adattare
+    match_totali +=len(matches)
+    # Unificazione delle coppie e rimozione dei duplicati
+    df_unified = unify_matches(df, matches)
+
+    # Salva la stringa JSON in un file
+    saveFile(df_unified,output_file)
+    print(f"Processato {input_file}.json ({len(matches)} match controllati)\t file {conteggio} di {num_files}")
+
+print("Tempo totale:", time.time() - start_time)
+print("Match totali controllati: ",match_totali)

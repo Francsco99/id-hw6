@@ -1,31 +1,23 @@
-import pandas as pd
-import recordlinkage
-import recordlinkage.preprocessing
-import time
+import Levenshtein
+import re
 
-# Lista di valori per la colonna "company_name"
-company_names = ["BAD APPLE CIDER", "BAD APPLE"]
-industries = ["59200 - Sound recording and music publishing activities","11030 - Manufacture of cider and other fruit wines"]
-# Creazione del DataFrame
-df = pd.DataFrame({'company_name': company_names,'industry':industries})
-# Trasforma tutte le stringhe del DataFrame in minuscolo
-df = df.applymap(lambda x: x.lower() if isinstance(x, str) else x)
-print(df)
-# Creazione di un indice per le coppie candidate
-indexer = recordlinkage.Index()
+str1='k-fast holding ab'
+str2="k-fast holding ab (publ)"
+str3='apple inc.'
+str4='apple'
 
-indexer.full()  # Sostituire con il campo chiave appropriato
-candidate_links = indexer.index(df)
-tempo_candidate_links = time.time()
 
-print(candidate_links)
+def norm_lev_dist(str1,str2):
+    def normalize_text(stringa):
+        return re.sub(r'[^a-zA-Z0-9]', '', stringa)
+    dist = Levenshtein.distance(normalize_text(str1),normalize_text(str2))
+    max_len = max(len(str1),len(str2))
+    if max_len == 0:
+        return 0
+    return 1-(dist/max_len)
 
-# Comparazione delle coppie candidate basata su più attributi
-compare = recordlinkage.Compare()
+dist = Levenshtein.distance(str3,str4)
+norm_dist = norm_lev_dist(str3,str4)
 
-compare.string('company_name', 'company_name', method='cosine')
-compare.string('industry','industry',method='cosine',missing_value=0.1)
+print(dist,norm_dist)
 
-#compare.string('location_city','location_city',method='jarowinkler',missing_value=0.2)
-features = compare.compute(candidate_links, df)
-print(features)
