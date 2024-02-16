@@ -5,8 +5,8 @@ import unicodedata as uc
 
 # ABS_PATH e INPUT_FOLDER definiti 
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/final_table_lower.json'
-OUTPUT_FOLDER = os.path.join(ABS_PATH, "json/name_blocks")
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/annotation/file_ridotti/table_5-ridotta_1.json'
+OUTPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/blocking/json/ridotto_name_blocks/file_1'
 
 def readJsonFile(input_file):
     with open(input_file, 'r') as f:

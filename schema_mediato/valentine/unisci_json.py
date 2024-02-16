@@ -19,7 +19,7 @@ def combine_json_files(input_folder, output_file):
         json.dump(combined_data, output_file, indent=4)
 
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = os.path.join(ABS_PATH, "json/fixed/")
-OUTPUT_FOLDER = os.path.join(ABS_PATH, "json/fixed_total.json")
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/json/company_name'
+OUTPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/json/final_table_company_name.json'
 
 combine_json_files(INPUT_FOLDER, OUTPUT_FOLDER)
