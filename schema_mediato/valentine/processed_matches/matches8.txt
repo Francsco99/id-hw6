@@ -1,2 +1,2 @@
-('DeBiGa-output_globaldata.json', 'website')
-('DDD-teamblind.com.json', 'website')
+('table_05-proc.json', 'Stock type')
+('table_013-proc.json', 'Stock type')

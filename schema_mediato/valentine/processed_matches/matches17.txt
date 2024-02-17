@@ -1,7 +1,0 @@
-('MarScoToc-wikipedia.json', 'Industry')
-('DDD-teamblind.com.json', 'industry')
-('iGMM-cbinsights.json', 'industry')
-('MarScoToc-AmbitionBox.json', 'Industry')
-('GioPonSpiz-wiki.json', 'Industry')
-('DeBiGa-output_globaldata.json', 'industry')
-('avengers-hitHorizons_dataset.json', 'industry')

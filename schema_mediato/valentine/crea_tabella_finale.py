@@ -5,7 +5,7 @@ import json
 absPath = os.path.dirname(os.path.abspath(__file__))
 
 # Percorso del file JSON contenente lo schema mediato
-mediatedSchemaPath = absPath + "/json/mediated_schema_fixato.json"
+mediatedSchemaPath = "/Users/fspezzano/vscode/id-hw6/schema_mediato/valentine/json/mediated_schema-hw3.json"
 
 # Carica lo schema mediato dal file JSON
 with open(mediatedSchemaPath, 'r') as jsonfile:
@@ -19,7 +19,7 @@ for schema in mediatedSchema:
 mediatedSchema = temp
 
 # Directory contenente i file JSON delle fonti
-dataSource = absPath + "/sources_json"
+dataSource = "/Users/fspezzano/vscode/id-hw6/hw3_integration/tabelle_parsate"
 files = os.listdir(dataSource)
 
 # Estrai tutti gli attributi finali dall'insieme di schemi mediati
@@ -47,7 +47,7 @@ for file in files:
         finalTable.append(temp)
 
 # Percorso del file JSON finale
-finalTablePath = absPath + "/json/final_table.json"
+finalTablePath = absPath + "/json/final_table-hw3.json"
 
 # Se esiste già un file finale, rimuovilo
 if os.path.exists(finalTablePath):

@@ -1,3 +1,2 @@
-('DeBiGa-output_globaldata.json', 'address')
-('avengers-hitHorizons_dataset.json', 'address')
-('wissel-aziende-info-clipper.com.json', 'Address Name')
+('table_028-proc.json', 'Ticker Symbol')
+('table_09-proc.json', 'Ticker symbol')

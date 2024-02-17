@@ -1,2 +1,0 @@
-('FR-followers.json', 'Instagram')
-('FR-company_social_urls.json', 'Instagram')

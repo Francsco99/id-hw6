@@ -1,4 +1,0 @@
-('wissel-aziende-info-clipper.com.json', 'Unnamed: 0')
-('DDD-ft.com.json', 'Unnamed: 0')
-('DDD-teamblind.com.json', 'Unnamed: 0')
-('MalPatSaj-companiesmarketcap.com.json', 'Unnamed: 0')

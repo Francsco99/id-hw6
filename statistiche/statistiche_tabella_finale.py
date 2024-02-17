@@ -2,7 +2,7 @@ import json
 import os
 
 
-INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/json/final_table_company_name.json'
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/json/final_table_country.json'
 
 
 def readJsonFile(input_file):

@@ -9,7 +9,7 @@ import shutil
 
 # Ottieni il percorso assoluto della directory corrente
 absPath = os.path.dirname(os.path.abspath(__file__))
-MATCHES_DIRECTORY = absPath + "/matches"
+MATCHES_DIRECTORY = absPath + "/matches-hw3"
 
 # Funzione per analizzare un chunk di confronti tra schemi
 def parseChunk(chunk, schemaList, schemaNames, processNumber):
@@ -29,14 +29,14 @@ def parseChunk(chunk, schemaList, schemaNames, processNumber):
             matches[key] = score
     print(f"finished {processNumber} process")
     # Salva i match in un file pickle
-    pickle.dump(matches, open(MATCHES_DIRECTORY + "/matches" + str(processNumber), 'wb'))
+    pickle.dump(matches, open(MATCHES_DIRECTORY + "/matches-hw3" + str(processNumber), 'wb'))
 
 if __name__ == "__main__":
     start = time()  # Registra il tempo di inizio
     numProcs = 2  # Numero di processi paralleli
     procs = []  # Lista per memorizzare i processi
     parsers = []  # Lista per memorizzare i parser
-    dataSource = absPath + "/sources_json"  # Directory dei dati sorgente
+    dataSource = '/Users/fspezzano/vscode/id-hw6/hw3_integration/tabelle_parsate'  # Directory dei dati sorgente
     files = os.listdir(dataSource)  # Ottieni la lista dei file JSON
     schemaList = []  # Lista per memorizzare gli schemi
     schemaNames = []  # Lista per memorizzare i nomi degli schemi

@@ -2,9 +2,10 @@
 
 /blocking/json
 pairwise_matching/json
-hw3_integration/tabelle_hw3
+schema_mediato/valentine/matches-hw3
 schema_mediato/valentine/matches
 schema_mediato/valentine/processed_matches
 pairwise_matching/annotation
 statistiche/output
 schema_mediato/valentine/json
+hw3_integration/json

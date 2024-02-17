@@ -1,3 +1,2 @@
-('DDD-ft.com.json', 'revenue_2017_euro')
-('silvestri-ft.com.json', 'revenue_2017')
-('gren-ft.com.json', 'revenue_2017_EU')
+('table_011-proc.json', 'GICS')
+('table_07-proc.json', 'GICS')

@@ -6,7 +6,12 @@ import os
 import re
 from recordlinkage.base import BaseCompareFeature
 import Levenshtein
+import numpy
 
+# Percorsi delle cartelle di input e output
+absPath = os.path.dirname(os.path.abspath(__file__))
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/blocking/json/country_blocks'
+OUTPUT_FOLDER = os.path.join(absPath,'json/country')
 class CompareCompanyName(BaseCompareFeature):
     def _compute_vectorized(self, s1,s2):
         def normalize_text(stringa):
@@ -28,13 +33,6 @@ class CompareCompanyName(BaseCompareFeature):
 def is_json_file(filename):
     _, file_extension = os.path.splitext(filename)
     return file_extension.lower() == '.json'
-
-# Percorsi delle cartelle di input e output
-absPath = os.path.dirname(os.path.abspath(__file__))
-INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/blocking/json/country_blocks'
-OUTPUT_FOLDER = os.path.join(absPath,'json/country')
-
-start_time = time.time()
 
 def piuLungo(val1,val2):
     if len(str(val1))> len(str(val2)):
@@ -69,22 +67,23 @@ def saveFile(df,out_path):
     with open(out_path, 'w') as f:
         f.write(out_df)
 
+start_time = time.time()
 # Elenco dei file nella cartella di input
 input_files = os.listdir(INPUT_FOLDER)
 num_files = len(input_files)
 conteggio=0
 match_totali=0
+
 # Creazione di un indice per le coppie candidate
 indexer = recordlinkage.Index()
 indexer.full()
 
-# Comparazione delle coppie candidate basata su più attributi
+# Comparazione delle coppie candidate basata attrributo company_name
 compare = recordlinkage.Compare()
-
 compare.add(CompareCompanyName('company_name','company_name'))
 
 for input_file in input_files:
-    if is_json_file(input_file):
+    if is_json_file(input_file): 
         conteggio+=1
         print("FILE CORRENTE ",input_file)
 
@@ -93,9 +92,7 @@ for input_file in input_files:
         
         # Caricamento del DataFrame dal file JSON
         df = pd.read_json(input_path)
-        df_norm = df
         
-
         # Controllo se il DataFrame è vuoto
         if df.empty:
             saveFile(df,output_file)
@@ -107,7 +104,7 @@ for input_file in input_files:
             saveFile(df,output_file)
             print(f"{input_file} contiene una sola entry.")
             continue
-
+        
         candidate_links = indexer.index(df)
 
         # Calcolo dei punteggi di similarità
@@ -116,9 +113,10 @@ for input_file in input_files:
         # Selezione delle coppie con punteggi alti (esempio: somma dei punteggi > soglia)
         matches = features[features.sum(axis=1) > 0.7]  # Soglia da adattare
         match_totali +=len(matches)
+        
         # Unificazione delle coppie e rimozione dei duplicati
         df_unified = unify_matches(df, matches)
-
+        
         # Salva la stringa JSON in un file
         saveFile(df_unified,output_file)
         print(f"Processato {input_file} ({len(matches)} match controllati)\t file {conteggio} di {num_files}")

@@ -8,7 +8,7 @@ SOGLIA_SCORE = 0.42
 absPath = os.path.dirname(os.path.abspath(__file__))
 
 # Definisci la directory dei match e ottieni tutti i file presenti
-MATCHES_DIRECTORY = absPath + "/matches"
+MATCHES_DIRECTORY = absPath + "/matches-hw3"
 allMatches = os.listdir(MATCHES_DIRECTORY)
 
 # Inizializza un dizionario per memorizzare i match con score superiore a 0.33
@@ -61,7 +61,7 @@ for s in sets:
     labelsMediatedSchema.append(name)
 
 # Ottieni lo schema dei dati dai file JSON presenti nella directory
-SOURCES_DIRECTORY = absPath + "/sources_json"
+SOURCES_DIRECTORY = "/Users/fspezzano/vscode/id-hw6/hw3_integration/tabelle_parsate"
 files = os.listdir(SOURCES_DIRECTORY)
 schemas = []
 for file in files:
@@ -90,7 +90,7 @@ for file in files:
     schemas.append(data)
 
 # Scrivi lo schema mediato in un file JSON
-mediatedSchemaPath = absPath + "/json/mediated_schema.json"
+mediatedSchemaPath = absPath + "/json/mediated_schema-hw3.json"
 if os.path.exists(mediatedSchemaPath):
     os.remove(mediatedSchemaPath)
 with open(mediatedSchemaPath, "w") as json_file:

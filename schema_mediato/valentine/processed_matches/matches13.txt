@@ -1,2 +1,0 @@
-('FR-followers.json', 'Pinterest')
-('FR-company_social_urls.json', 'Pinterest')

@@ -1,2 +1,5 @@
-('GioPonSpiz-valueToday2.json', 'CEO')
-('slytherin-disfold.com.json', 'ceo')
+('table_012-proc.json', 'Country')
+('table_035-proc.json', 'Country')
+('table_015-proc.json', 'Countries listed')
+('table_029-proc.json', 'Country')
+('table_033-proc.json', 'HQ country')
