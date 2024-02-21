@@ -36,7 +36,7 @@ if __name__ == "__main__":
     numProcs = 2  # Numero di processi paralleli
     procs = []  # Lista per memorizzare i processi
     parsers = []  # Lista per memorizzare i parser
-    dataSource = '/Users/fspezzano/vscode/id-hw6/hw3_integration/tabelle_parsate'  # Directory dei dati sorgente
+    dataSource = '/Users/fspezzano/vscode/id-hw6/hw3_integration/json/tabelle_da_unire'  # Directory dei dati sorgente
     files = os.listdir(dataSource)  # Ottieni la lista dei file JSON
     schemaList = []  # Lista per memorizzare gli schemi
     schemaNames = []  # Lista per memorizzare i nomi degli schemi

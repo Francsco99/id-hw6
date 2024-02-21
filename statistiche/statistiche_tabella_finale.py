@@ -2,7 +2,7 @@ import json
 import os
 
 
-INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/json/final_table_country.json'
+INPUT_FOLDER = '/Users/fspezzano/vscode/id-hw6/hw3_integration/json/paired.json'
 
 
 def readJsonFile(input_file):
@@ -15,6 +15,22 @@ def saveJsonFile(data, output_file):
         json.dump(data, jsonFile, indent=4)
 
 data = readJsonFile(INPUT_FOLDER)
+'''
+risultato ={}
+for element in data:
+    for attributo in element:
+        if element[attributo]=="":
+            if attributo in risultato:
+                risultato[attributo]+=1
+            else:
+                risultato[attributo]=1
+somma=0
+for k,v in sorted(risultato.items()):
+    print(f'Attributo: {k}: {v} elementi nulli')
+    somma+=v
+print(f"{somma} elementi nulli in totale")
+'''
+
 no_addres=0
 no_city=0
 no_country=0

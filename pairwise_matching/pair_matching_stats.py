@@ -56,8 +56,8 @@ class FirstTwoLettersIndex(BaseIndexAlgorithm):
         return pd.MultiIndex.from_tuples(index_pairs, names=[df_a.index.name, df_b.index.name])
 
 # Percorsi delle cartelle di input e output
-INPUT_FOLDER = 'pairwise_matching/annotation/file_ridotti/table_5-ridotta_4.json'
-TRUE_LINKS = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/annotation/file_annotati/annotazione_4_cn.json'
+INPUT_FOLDER = 'pairwise_matching/annotation/file_ridotti/table_5-ridotta_1.json'
+TRUE_LINKS = '/Users/fspezzano/vscode/id-hw6/pairwise_matching/annotation/file_annotati/annotazione_full_1_match.json'
 
 annotation = recordlinkage.read_annotation_file(TRUE_LINKS)
 links_true= annotation.links
